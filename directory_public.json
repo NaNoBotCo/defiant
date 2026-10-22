@@ -4870,7 +4870,7 @@
           {
             "name": "Méderi Hospital Universitario Mayor",
             "lat": 4.6233213,
-            "lon": -74.0826462
+            "lon": -74.0826458
           },
           {
             "name": "Nueva Eps",
@@ -4929,8 +4929,8 @@
           },
           {
             "name": "UPA Lourdes",
-            "lat": 4.589292,
-            "lon": -74.0739066
+            "lat": 4.5893068,
+            "lon": -74.0739448
           },
           {
             "name": "UPA Rionegro",
@@ -26247,8 +26247,8 @@
           },
           {
             "name": "Buangkok Green Medical Park",
-            "lat": 1.3823589,
-            "lon": 103.8847677
+            "lat": 1.3821353,
+            "lon": 103.8847334
           },
           {
             "name": "Bukit Merah Joint Testing & Vaccination Centre",
@@ -26307,7 +26307,7 @@
           },
           {
             "name": "HealthCity Novena",
-            "lat": 1.3216048,
+            "lat": 1.3215775,
             "lon": 103.8467939
           },
           {
@@ -26352,8 +26352,8 @@
           },
           {
             "name": "Jurong Medical Centre",
-            "lat": 1.3407483,
-            "lon": 103.7045253
+            "lat": 1.3407464,
+            "lon": 103.7045823
           },
           {
             "name": "Jurong West Joint Testing & Vaccination Centre",
@@ -26507,13 +26507,13 @@
           },
           {
             "name": "Tan Tock Seng Hospital",
-            "lat": 1.3212774,
-            "lon": 103.8462067
+            "lat": 1.3212799,
+            "lon": 103.8462045
           },
           {
             "name": "Tan Tock Seng Hospital Integrated Care Hub",
-            "lat": 1.3237212,
-            "lon": 103.8464915
+            "lat": 1.3237311,
+            "lon": 103.8464927
           },
           {
             "name": "Urgent Care Centre",
@@ -26526,7 +26526,7 @@
             "lon": 103.7229451
           },
           {
-            "name": "Woodlands Hospital",
+            "name": "Woodlands Health Campus",
             "lat": 1.424561,
             "lon": 103.7945949
           },
