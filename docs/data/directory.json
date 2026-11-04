@@ -108005,6 +108005,25 @@
       "position": 5685,
       "item": {
         "@type": "Hospital",
+        "name": "Bangkok Hospital",
+        "category": "Hospital",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Chiang Mai",
+          "addressCountry": "Thailand"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 18.7887297,
+          "longitude": 99.0265356
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5686,
+      "item": {
+        "@type": "Hospital",
         "name": "Bangkok Hospital Chiang Mai",
         "category": "Hospital",
         "address": {
@@ -108021,7 +108040,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5686,
+      "position": 5687,
       "item": {
         "@type": "Hospital",
         "name": "Chang Phuak Branch Nakorn Ping Hospital",
@@ -108040,7 +108059,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5687,
+      "position": 5688,
       "item": {
         "@type": "Hospital",
         "name": "Chiangmai Klaimor Hospital",
@@ -108059,7 +108078,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5688,
+      "position": 5689,
       "item": {
         "@type": "Hospital",
         "name": "Chiangmai Ram Health Centre",
@@ -108078,7 +108097,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5689,
+      "position": 5690,
       "item": {
         "@type": "Hospital",
         "name": "Dental Buddy Clinic (เดนทัลบัดดี้คลินิก)",
@@ -108097,7 +108116,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5690,
+      "position": 5691,
       "item": {
         "@type": "Hospital",
         "name": "Donkaew Community Hospital",
@@ -108116,7 +108135,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5691,
+      "position": 5692,
       "item": {
         "@type": "Hospital",
         "name": "Lamphun Klaimor Hospital",
@@ -108135,7 +108154,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5692,
+      "position": 5693,
       "item": {
         "@type": "Hospital",
         "name": "Lanna Hospital - New Building",
@@ -108147,14 +108166,14 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 18.8153754,
-          "longitude": 98.9940726
+          "latitude": 18.8153686,
+          "longitude": 98.9940893
         }
       }
     },
     {
       "@type": "ListItem",
-      "position": 5693,
+      "position": 5694,
       "item": {
         "@type": "Hospital",
         "name": "Lanna Hospital Extension",
@@ -108173,7 +108192,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5694,
+      "position": 5695,
       "item": {
         "@type": "Hospital",
         "name": "MIlada Thai-Chinese Medical Clinic",
@@ -108192,7 +108211,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5695,
+      "position": 5696,
       "item": {
         "@type": "Hospital",
         "name": "Mountain View Hospital",
@@ -108211,7 +108230,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5696,
+      "position": 5697,
       "item": {
         "@type": "Hospital",
         "name": "OPD Sriphat Center",
@@ -108230,7 +108249,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5697,
+      "position": 5698,
       "item": {
         "@type": "Hospital",
         "name": "Pring Lamphun Hospital",
@@ -108249,7 +108268,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5698,
+      "position": 5699,
       "item": {
         "@type": "Hospital",
         "name": "San Sai Hospital - Main Building",
@@ -108268,7 +108287,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5699,
+      "position": 5700,
       "item": {
         "@type": "Hospital",
         "name": "Suan Prung Psychiatric Hospital",
@@ -108287,7 +108306,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5700,
+      "position": 5701,
       "item": {
         "@type": "Hospital",
         "name": "animal hospital",
@@ -108306,7 +108325,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5701,
+      "position": 5702,
       "item": {
         "@type": "Hospital",
         "name": "ร้านขายยา",
@@ -108325,7 +108344,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5702,
+      "position": 5703,
       "item": {
         "@type": "Hospital",
         "name": "ร้านยาสวนดอก",
@@ -108344,7 +108363,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5703,
+      "position": 5704,
       "item": {
         "@type": "Hospital",
         "name": "ศูนย์สุขภาพ มช",
@@ -108363,7 +108382,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5704,
+      "position": 5705,
       "item": {
         "@type": "Hospital",
         "name": "ศูนย์ส่งเสริมพัฒนาการเด็กภาคเหนือจังหวัดเชียงใหม่",
@@ -108382,7 +108401,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5705,
+      "position": 5706,
       "item": {
         "@type": "Hospital",
         "name": "ศูนย์เวชศาสตร์ผู้สูงอายุ เชียงใหม่",
@@ -108401,7 +108420,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5706,
+      "position": 5707,
       "item": {
         "@type": "Hospital",
         "name": "ส่งเสริมสขภาพ",
@@ -108420,7 +108439,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5707,
+      "position": 5708,
       "item": {
         "@type": "Hospital",
         "name": "อนามัย",
@@ -108439,7 +108458,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5708,
+      "position": 5709,
       "item": {
         "@type": "Hospital",
         "name": "เหมืองง่าคลินิกเวชกรรม",
@@ -108458,7 +108477,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5709,
+      "position": 5710,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบานสันกำแพง",
@@ -108477,7 +108496,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5710,
+      "position": 5711,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาล สันป่าตอง",
@@ -108496,7 +108515,26 @@
     },
     {
       "@type": "ListItem",
-      "position": 5711,
+      "position": 5712,
+      "item": {
+        "@type": "Hospital",
+        "name": "โรงพยาบาล เชียงใหม่",
+        "category": "Hospital",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Chiang Mai",
+          "addressCountry": "Thailand"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 18.8107321,
+          "longitude": 98.9813716
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5713,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาล เชียงใหม่เมดิคอลเซ็นเตอร์",
@@ -108508,33 +108546,14 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 18.780361,
-          "longitude": 98.9884613
+          "latitude": 18.7803819,
+          "longitude": 98.988465
         }
       }
     },
     {
       "@type": "ListItem",
-      "position": 5712,
-      "item": {
-        "@type": "Hospital",
-        "name": "โรงพยาบาลกรุงเทพ",
-        "category": "Hospital",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Chiang Mai",
-          "addressCountry": "Thailand"
-        },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": 18.7887297,
-          "longitude": 99.0265356
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 5713,
+      "position": 5714,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลกองบิน 41",
@@ -108553,7 +108572,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5714,
+      "position": 5715,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลค่ายกาวิละ",
@@ -108572,7 +108591,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5715,
+      "position": 5716,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลช้างเผือก",
@@ -108591,7 +108610,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5716,
+      "position": 5717,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลดอยสะเก็ด",
@@ -108610,7 +108629,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5717,
+      "position": 5718,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลดารารัศมี",
@@ -108629,7 +108648,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5718,
+      "position": 5719,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลตาเซนต์ปีเตอร์",
@@ -108648,7 +108667,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5719,
+      "position": 5720,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลธัญญารักษ์เชียงใหม่",
@@ -108667,7 +108686,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5720,
+      "position": 5721,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลนครพิงค์",
@@ -108686,7 +108705,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5721,
+      "position": 5722,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลนครพิงค์ แผนกผู้ป่วยนอก",
@@ -108705,7 +108724,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5722,
+      "position": 5723,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลบ้านธิ",
@@ -108724,7 +108743,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5723,
+      "position": 5724,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลประสาทเชียงใหม่",
@@ -108743,7 +108762,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5724,
+      "position": 5725,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลมหาราชนครเชียงใหม่",
@@ -108762,7 +108781,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5725,
+      "position": 5726,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลราชเวช",
@@ -108781,7 +108800,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5726,
+      "position": 5727,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลลานนา",
@@ -108800,7 +108819,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5727,
+      "position": 5728,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลลำพูน",
@@ -108819,7 +108838,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5728,
+      "position": 5729,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลสันทราย",
@@ -108838,7 +108857,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5729,
+      "position": 5730,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลสารภี",
@@ -108857,7 +108876,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5730,
+      "position": 5731,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลสิริเวช",
@@ -108876,7 +108895,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5731,
+      "position": 5732,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลส่งเสริมสุขภาพตำบล",
@@ -108895,7 +108914,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5732,
+      "position": 5733,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลส่งเสริมสุขภาพเชียงใหม่",
@@ -108914,7 +108933,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5733,
+      "position": 5734,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลหมอวงศ์",
@@ -108933,7 +108952,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5734,
+      "position": 5735,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลหริภุญชัยเมมโมเรียล",
@@ -108952,7 +108971,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 5735,
+      "position": 5736,
       "item": {
         "@type": "Hospital",
         "name": "โรงพยาบาลหางดง",
@@ -108966,25 +108985,6 @@
           "@type": "GeoCoordinates",
           "latitude": 18.6830741,
           "longitude": 98.9183624
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 5736,
-      "item": {
-        "@type": "Hospital",
-        "name": "โรงพยาบาลเชียงใหม่",
-        "category": "Hospital",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Chiang Mai",
-          "addressCountry": "Thailand"
-        },
-        "geo": {
-          "@type": "GeoCoordinates",
-          "latitude": 18.8108548,
-          "longitude": 98.9813533
         }
       }
     },
