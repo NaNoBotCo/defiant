@@ -110370,8 +110370,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 40.9766911,
-          "longitude": 29.0931138
+          "latitude": 40.9766931,
+          "longitude": 29.093092
         }
       }
     },
@@ -110389,7 +110389,7 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 41.1274286,
+          "latitude": 41.1273992,
           "longitude": 29.0251976
         }
       }
@@ -111339,8 +111339,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 41.0949722,
-          "longitude": 28.8647834
+          "latitude": 41.0949834,
+          "longitude": 28.8648036
         }
       }
     },
@@ -113847,8 +113847,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 41.1036745,
-          "longitude": 28.9961075
+          "latitude": 41.1036639,
+          "longitude": 28.996234
         }
       }
     },
