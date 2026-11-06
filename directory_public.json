@@ -5962,7 +5962,7 @@
       }
     },
     "India": {
-      "count": 3688,
+      "count": 3689,
       "cities": {
         "Bengaluru": [
           {
@@ -15260,6 +15260,11 @@
             "lon": 77.245588
           },
           {
+            "name": "Bawana Dispensary",
+            "lat": 28.8012625,
+            "lon": 77.0374388
+          },
+          {
             "name": "Bawasher Hospital",
             "lat": 28.6742139,
             "lon": 77.1761804
@@ -15396,7 +15401,7 @@
           },
           {
             "name": "Central Armed Police Forces Institute of Medical Sciences",
-            "lat": 28.473978,
+            "lat": 28.4746541,
             "lon": 77.2158554
           },
           {
@@ -16286,8 +16291,8 @@
           },
           {
             "name": "Hans Charitable Hospital",
-            "lat": 28.7003162,
-            "lon": 77.2083336
+            "lat": 28.7002703,
+            "lon": 77.2083671
           },
           {
             "name": "Hardik Hospital",
@@ -19412,6 +19417,11 @@
             "lon": 72.911156
           },
           {
+            "name": "Apollo Spectra Hospitals",
+            "lat": 18.9703842,
+            "lon": 72.8146155
+          },
+          {
             "name": "Arihant Eye Care Centre, Borivali",
             "lat": 19.237523,
             "lon": 72.8559704
@@ -19887,11 +19897,6 @@
             "lon": 72.8210971
           },
           {
-            "name": "CritiCare Asia Hospital, Kurla",
-            "lat": 19.0760113,
-            "lon": 72.8861368
-          },
-          {
             "name": "CritiCare Hospital",
             "lat": 19.1180803,
             "lon": 72.8505516
@@ -19905,6 +19910,11 @@
             "name": "Criticare Superspeciality Hospital",
             "lat": 19.2017129,
             "lon": 72.9652409
+          },
+          {
+            "name": "Crtiti Care Asia Hospital",
+            "lat": 19.0760113,
+            "lon": 72.8861368
           },
           {
             "name": "Crystal Hospitals",
@@ -20425,11 +20435,6 @@
             "name": "Dr. Narkhedes Advance Ent Centre",
             "lat": 19.1870475,
             "lon": 72.97325
-          },
-          {
-            "name": "Dr. Niraj Mahajan Gynecologist and Laparoscopic Surgeon",
-            "lat": 18.9703842,
-            "lon": 72.8146155
           },
           {
             "name": "Dr. Nisars Eye Care Centre",
@@ -21733,8 +21738,8 @@
           },
           {
             "name": "Maher Maternity and Nursing Home, Mumbai",
-            "lat": 19.1704446,
-            "lon": 72.9588558
+            "lat": 19.1703693,
+            "lon": 72.9588425
           },
           {
             "name": "Maheshwari Multispeciality Hospital",
@@ -24117,7 +24122,7 @@
             "lon": 72.9207404
           },
           {
-            "name": "Vimala Dermatological Center",
+            "name": "Vimala Dermatological Centra",
             "lat": 19.1378081,
             "lon": 72.8094838
           },
@@ -26526,7 +26531,7 @@
             "lon": 103.7229451
           },
           {
-            "name": "Woodlands Hospital",
+            "name": "Woodlands Health Campus",
             "lat": 1.424561,
             "lon": 103.7945949
           },
