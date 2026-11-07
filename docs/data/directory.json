@@ -14060,7 +14060,7 @@
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 4.6056685,
-          "longitude": -74.0833591
+          "longitude": -74.0833605
         }
       }
     },
@@ -14838,8 +14838,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 4.5835716,
-          "longitude": -74.1319651
+          "latitude": 4.5835619,
+          "longitude": -74.1319733
         }
       }
     },
@@ -91095,7 +91095,7 @@
       "position": 4795,
       "item": {
         "@type": "Hospital",
-        "name": "Gleneagles Penang",
+        "name": "Gleneagles Pulau Pinang",
         "category": "Hospital",
         "address": {
           "@type": "PostalAddress",
@@ -91361,7 +91361,7 @@
       "position": 4809,
       "item": {
         "@type": "Hospital",
-        "name": "iTCM Healthcare Centre 爱康中医诊所",
+        "name": "iTCM Healthcare Centre",
         "category": "Hospital",
         "address": {
           "@type": "PostalAddress",
@@ -103321,7 +103321,7 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 41.3889465,
+          "latitude": 41.3889427,
           "longitude": 2.1456033
         }
       }
@@ -103606,8 +103606,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 41.4013125,
-          "longitude": 2.1422688
+          "latitude": 41.401314,
+          "longitude": 2.1422817
         }
       }
     },

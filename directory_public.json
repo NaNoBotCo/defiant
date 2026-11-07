@@ -4470,7 +4470,7 @@
           {
             "name": "Clínica Centenario",
             "lat": 4.6056685,
-            "lon": -74.0833591
+            "lon": -74.0833605
           },
           {
             "name": "Clínica Colombia",
@@ -4674,8 +4674,8 @@
           },
           {
             "name": "Hospital El Carmen",
-            "lat": 4.5835716,
-            "lon": -74.1319651
+            "lat": 4.5835619,
+            "lon": -74.1319733
           },
           {
             "name": "Hospital El Tunal",
@@ -24781,7 +24781,7 @@
         ],
         "Penang": [
           {
-            "name": "Gleneagles Penang",
+            "name": "Gleneagles Pulau Pinang",
             "lat": 5.4268203,
             "lon": 100.3199443
           },
@@ -24851,7 +24851,7 @@
             "lon": 100.3083329
           },
           {
-            "name": "iTCM Healthcare Centre 爱康中医诊所",
+            "name": "iTCM Healthcare Centre",
             "lat": 5.4240233,
             "lon": 100.3177625
           }
@@ -28031,7 +28031,7 @@
           },
           {
             "name": "Capio Hospital Universitari Sagrat Cor",
-            "lat": 41.3889465,
+            "lat": 41.3889427,
             "lon": 2.1456033
           },
           {
@@ -28106,8 +28106,8 @@
           },
           {
             "name": "Hospital Clínic de Barcelona. Seu Plató",
-            "lat": 41.4013125,
-            "lon": 2.1422688
+            "lat": 41.401314,
+            "lon": 2.1422817
           },
           {
             "name": "Hospital Duran i Reynals",
