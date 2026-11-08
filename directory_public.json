@@ -6961,11 +6961,6 @@
             "lon": 77.5924585
           },
           {
-            "name": "Divisional Railway Hospital",
-            "lat": 12.9798353,
-            "lon": 77.5651105
-          },
-          {
             "name": "Divya Drishti Eye Hospital, Vijayanagar",
             "lat": 12.9586907,
             "lon": 77.5352668
@@ -9156,6 +9151,11 @@
             "lon": 77.6146819
           },
           {
+            "name": "Railways Hospital",
+            "lat": 12.9798353,
+            "lon": 77.5651105
+          },
+          {
             "name": "Rainbow Children's Hospital",
             "lat": 12.9753078,
             "lon": 77.697834
@@ -10352,8 +10352,8 @@
           },
           {
             "name": "Svastha Hospital",
-            "lat": 12.9659169,
-            "lon": 77.749386
+            "lat": 12.9659234,
+            "lon": 77.7494061
           },
           {
             "name": "Swamy Hospital",
