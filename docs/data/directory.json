@@ -17556,7 +17556,7 @@
         "geo": {
           "@type": "GeoCoordinates",
           "latitude": 9.9225293,
-          "longitude": -84.0699756
+          "longitude": -84.0699685
         }
       }
     },
@@ -103055,8 +103055,8 @@
         },
         "geo": {
           "@type": "GeoCoordinates",
-          "latitude": 37.5760692,
-          "longitude": 126.9852705
+          "latitude": 37.5758192,
+          "longitude": 126.9849944
         }
       }
     },
