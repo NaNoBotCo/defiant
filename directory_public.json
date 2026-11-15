@@ -5962,7 +5962,7 @@
       }
     },
     "India": {
-      "count": 3689,
+      "count": 3687,
       "cities": {
         "Bengaluru": [
           {
@@ -11874,8 +11874,8 @@
           },
           {
             "name": "Dr. Sathish Kumar Institute Of Child Health and Hospital for Children",
-            "lat": 12.9372891,
-            "lon": 80.1390198
+            "lat": 12.937277,
+            "lon": 80.1390208
           },
           {
             "name": "Dr. Seshiah Diabetes Research Institute and Dr. Balaji Diabetes Care Centre",
@@ -11934,8 +11934,8 @@
           },
           {
             "name": "Dr.Bhats Eye Hospital",
-            "lat": 13.1175413,
-            "lon": 80.1539406
+            "lat": 13.1185204,
+            "lon": 80.1523131
           },
           {
             "name": "Dr.Duraiswami Eye Hospital",
@@ -12121,11 +12121,6 @@
             "name": "Good Shepard hospital",
             "lat": 12.9810842,
             "lon": 80.2343492
-          },
-          {
-            "name": "Goverment dental hospital & collage",
-            "lat": 13.0829605,
-            "lon": 80.281264
           },
           {
             "name": "Government Hospital",
@@ -12539,13 +12534,8 @@
           },
           {
             "name": "K.H.M. Hospital",
-            "lat": 13.129327,
-            "lon": 80.2152624
-          },
-          {
-            "name": "K.H.M.Hospital",
-            "lat": 13.0844424,
-            "lon": 80.2130723
+            "lat": 13.0844992,
+            "lon": 80.2130591
           },
           {
             "name": "K.J. Hospital",
@@ -12869,7 +12859,7 @@
           },
           {
             "name": "MIOT Hospital",
-            "lat": 13.022338,
+            "lat": 13.022354,
             "lon": 80.1863211
           },
           {
@@ -14103,7 +14093,7 @@
             "lon": 80.1810857
           },
           {
-            "name": "Srushti Hospital, Kanchipuram",
+            "name": "Srushti Hospital, Ramapuram",
             "lat": 13.0353484,
             "lon": 80.1822808
           },
@@ -14266,6 +14256,11 @@
             "name": "Taj Hospital",
             "lat": 13.0239396,
             "lon": 80.116819
+          },
+          {
+            "name": "Tamil Nadu Government Dental College & Hospital, Chennai",
+            "lat": 13.084889,
+            "lon": 80.2826483
           },
           {
             "name": "Tamil Nadu Government Multi Super Speciality Hospital",
@@ -19418,8 +19413,8 @@
           },
           {
             "name": "Apollo Spectra Hospitals",
-            "lat": 18.9703842,
-            "lon": 72.8146155
+            "lat": 18.9703476,
+            "lon": 72.8146181
           },
           {
             "name": "Arihant Eye Care Centre, Borivali",
@@ -19488,8 +19483,8 @@
           },
           {
             "name": "Ashirwad Hospital and Polyclinic",
-            "lat": 19.0521558,
-            "lon": 72.9092518
+            "lat": 19.0521469,
+            "lon": 72.9091445
           },
           {
             "name": "Ashirwad Maternity and Nursing Home",
@@ -19748,8 +19743,8 @@
           },
           {
             "name": "Borivali Surgical Hospital LLP",
-            "lat": 19.2371999,
-            "lon": 72.8620019
+            "lat": 19.2372069,
+            "lon": 72.8619335
           },
           {
             "name": "Borivali West",
@@ -20173,8 +20168,8 @@
           },
           {
             "name": "Dr Gupte Lying-In Surgical Hospital",
-            "lat": 19.0716269,
-            "lon": 72.837659
+            "lat": 19.0716358,
+            "lon": 72.837663
           },
           {
             "name": "Dr Haresh Shah Prabhat Maternity and Surgical Nursing Home",
@@ -20423,8 +20418,8 @@
           },
           {
             "name": "Dr. Muddebihalkar Hospital and Iccu",
-            "lat": 19.186815,
-            "lon": 72.9537385
+            "lat": 19.1869703,
+            "lon": 72.9538925
           },
           {
             "name": "Dr. Nadeem Rais Endocrinologist",
@@ -20822,14 +20817,9 @@
             "lon": 72.8639666
           },
           {
-            "name": "Gleneagles Hospital Super Speciality and Transplant Center",
+            "name": "Global Hospital Super Speciality and Transplant Center",
             "lat": 18.9994432,
             "lon": 72.8405011
-          },
-          {
-            "name": "Global Hospital Super Speciality and Transplant Center",
-            "lat": 18.9994082,
-            "lon": 72.8404522
           },
           {
             "name": "Godrej Memorial Hospital, Mumbai",
@@ -21074,7 +21064,7 @@
           {
             "name": "INHS Asvini Naval Hospital",
             "lat": 18.9002886,
-            "lon": 72.8149856
+            "lon": 72.8149353
           },
           {
             "name": "Icon Hospital and Research Centre",
@@ -21148,8 +21138,8 @@
           },
           {
             "name": "J. J. Hospital",
-            "lat": 18.9638574,
-            "lon": 72.8347891
+            "lat": 18.9638278,
+            "lon": 72.834781
           },
           {
             "name": "J. K. Child Health Care and Nicu",
@@ -21313,8 +21303,8 @@
           },
           {
             "name": "K B H B Charitable Ophthalmic and E.N.T Hospital",
-            "lat": 19.0023454,
-            "lon": 72.840422
+            "lat": 19.0023334,
+            "lon": 72.8404665
           },
           {
             "name": "K B Haji Bachooali Charitable Ophthalmic and E N T H",
@@ -21853,8 +21843,8 @@
           },
           {
             "name": "Masina Hospital",
-            "lat": 18.9746274,
-            "lon": 72.8355699
+            "lat": 18.9746049,
+            "lon": 72.8355792
           },
           {
             "name": "Masoom Child Hospital",
@@ -21937,7 +21927,7 @@
             "lon": 72.9134181
           },
           {
-            "name": "Metropol Hospital and Icu",
+            "name": "Metro Hospital and Icu",
             "lat": 19.2358192,
             "lon": 72.9755159
           },
@@ -22438,8 +22428,8 @@
           },
           {
             "name": "Parekh Eye Hospital",
-            "lat": 19.0554536,
-            "lon": 72.8356392
+            "lat": 19.0554466,
+            "lon": 72.8357264
           },
           {
             "name": "Parel Institute Of Orthopaedic Specialities",
@@ -23408,8 +23398,8 @@
           },
           {
             "name": "Shreedhar Hospital",
-            "lat": 19.0196086,
-            "lon": 72.8337321
+            "lat": 19.0196078,
+            "lon": 72.8337315
           },
           {
             "name": "Shreeji Hospital (Kandivli)",
@@ -23513,8 +23503,8 @@
           },
           {
             "name": "Sir H. N. Hospital & Research Centre;Sir H.N Reliance foundation hospital",
-            "lat": 18.9589651,
-            "lon": 72.8201232
+            "lat": 18.9587707,
+            "lon": 72.8200485
           },
           {
             "name": "Sirvi Medical",
@@ -23823,8 +23813,8 @@
           },
           {
             "name": "Tata Memorial Cancer Hospital",
-            "lat": 19.0056725,
-            "lon": 72.8430551
+            "lat": 19.0056387,
+            "lon": 72.8430619
           },
           {
             "name": "Tata Memorial Hospital",
@@ -24048,8 +24038,8 @@
           },
           {
             "name": "Varad Medical Centre",
-            "lat": 19.0146877,
-            "lon": 72.8274786
+            "lat": 19.0146725,
+            "lon": 72.8275685
           },
           {
             "name": "Vardann Multi Speciality Hospital",
@@ -24128,8 +24118,8 @@
           },
           {
             "name": "Vinayak Maternity and General Hospital",
-            "lat": 19.1946888,
-            "lon": 72.8332024
+            "lat": 19.1946863,
+            "lon": 72.8334036
           },
           {
             "name": "Vinod Sharma Memorial Medical Centre",
