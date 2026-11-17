@@ -5739,11 +5739,6 @@
             "lon": 19.0785067
           },
           {
-            "name": "Magyar Honvédség Egészségügyi Központ",
-            "lat": 47.5307038,
-            "lon": 19.0727558
-          },
-          {
             "name": "Manninger Jenő Országos Traumatológiai Intézet",
             "lat": 47.496434,
             "lon": 19.0815906
@@ -5954,9 +5949,14 @@
             "lon": 19.0132429
           },
           {
+            "name": "Észak-Pesti Centrumkórház - Honvédkórház",
+            "lat": 47.5307017,
+            "lon": 19.0727241
+          },
+          {
             "name": "Újpesti Szakorvosi Rendelőintézet",
-            "lat": 47.5656122,
-            "lon": 19.1005185
+            "lat": 47.5656077,
+            "lon": 19.1005111
           }
         ]
       }
@@ -29906,7 +29906,7 @@
           },
           {
             "name": "Acıbadem Maslak Hastanesi",
-            "lat": 41.1273992,
+            "lat": 41.1274286,
             "lon": 29.0251976
           },
           {
