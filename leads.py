@@ -38,9 +38,13 @@ def setup(cfg):
     return cfg
 
 
+# Cloudflare answers Python's default client name with 403.
+UA = "defiant-leads-cli/1.0"
+
+
 def fetch(cfg, path="/leads"):
     req = urllib.request.Request(cfg["url"] + path,
-                                 headers={"Authorization": "Bearer " + cfg["token"]})
+                                 headers={"Authorization": "Bearer " + cfg["token"], "User-Agent": UA})
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.loads(r.read())
 
@@ -92,7 +96,7 @@ def export_subscribers(cfg):
     try:
         req = urllib.request.Request(
             cfg["url"] + "/subscribers?format=csv",
-            headers={"Authorization": "Bearer " + cfg["token"]})
+            headers={"Authorization": "Bearer " + cfg["token"], "User-Agent": UA})
         with urllib.request.urlopen(req, timeout=30) as r:
             out.write_bytes(r.read())
     except Exception as e:

@@ -1,4 +1,4 @@
-// defiant-leads — homebrew lead + subscriber capture for defiant.to (no third parties)
+// defiant-leads — homebrew lead + subscriber capture for Defiant (nanobotco.github.io/defiant/) (no third parties)
 // POST /lead        : store a lead (honeypot + time-trap + per-IP rate limit)
 // GET  /leads       : read leads (Bearer LEADS_TOKEN or ?token=), ?format=html
 // POST /subscribe   : add a newsletter subscriber (same anti-bot; dedupes on email)
@@ -6,6 +6,7 @@
 // Deploy steps are in the repo README (wrangler d1 create → schema → secret → deploy).
 
 const ALLOW = [
+  "https://nanobotco.github.io",
   "https://defiant.to",
   "https://www.defiant.to",
   "http://defiant.to",       // interim: before GitHub's TLS cert lands / Enforce HTTPS is on

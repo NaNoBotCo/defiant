@@ -5,7 +5,7 @@
 ---
 
 # Defiant — Medical Tourism in Chiang Mai, Pay Local Prices
-URL: https://defiant.to/
+URL: https://nanobotco.github.io/defiant/
 
 # DEFIANT
 
@@ -103,7 +103,7 @@ Chiang Mai, Thailand · working with clients across every US time zone.
 ---
 
 # The Defiant Manifesto & Who We Are
-URL: https://defiant.to/about/
+URL: https://nanobotco.github.io/defiant/about/
 
 # Why Defiant exists
 
@@ -201,7 +201,7 @@ paperwork, the doctors. Working with clients across every US time zone.
 ---
 
 # Addiction Medicine in Chiang Mai — The Places, Named Plainly
-URL: https://defiant.to/addiction/
+URL: https://nanobotco.github.io/defiant/addiction/
 
 # Addiction medicine in Chiang Mai — the places, named plainly
 
@@ -308,7 +308,7 @@ are words every information desk understands.
 ---
 
 # Guides — Working Answers from Chiang Mai
-URL: https://defiant.to/articles/
+URL: https://nanobotco.github.io/defiant/articles/
 
 Most of what ranks for these questions is written from a content mill three time zones away. These guides are written from here, on our own instruments: a curated map of 12,000+ places, a live air feed, the Bank of Thailand's own exchange rates. The tables refresh themselves and say when they last did. The words are a person's, and stay that way.
 
@@ -376,7 +376,7 @@ A sympathetic nerve block used for PTSD, hot flashes, and nerve pain — how it 
 ---
 
 # Burning Season in Chiang Mai: Dates, Numbers, and the Clean-Air Playbook
-URL: https://defiant.to/articles/burning-season/
+URL: https://nanobotco.github.io/defiant/articles/burning-season/
 
 Every year, roughly from **late January to mid-April**, agricultural burning across the upper Mekong region meets a bowl-shaped valley and a temperature inversion, and Chiang Mai's famously soft air turns hazy. March is usually the peak. By Songkran (mid-April) the rains start rinsing it out, and from May to January the air here is soft mountain air again.
 
@@ -443,7 +443,7 @@ Some do — March especially. The DTV and long-stay visas make the seasonal shuf
 ---
 
 # Chiang Mai Hospitals for Foreigners: The Working Guide
-URL: https://defiant.to/articles/chiang-mai-hospitals/
+URL: https://nanobotco.github.io/defiant/articles/chiang-mai-hospitals/
 
 Chiang Mai has one of the best hospital benches in Southeast Asia for a city its size — a university medical school, half a dozen serious private hospitals, and specialty houses for eyes, nerves, and minds. What it doesn't have is a decent map written for the person who just moved here, or who woke up at 2 a.m. deciding whether tonight is an ER night.
 
@@ -523,7 +523,7 @@ Public beats private by a wide margin, McCormick is the gentlest of the privates
 ---
 
 # LGBTQIA+ Community Flags and Their Meanings
-URL: https://defiant.to/articles/community-flags/
+URL: https://nanobotco.github.io/defiant/articles/community-flags/
 
 ![[Pasted image 20250907141552.png]]
 ### 1. **Progress Pride Flag**
@@ -699,7 +699,7 @@ URL: https://defiant.to/articles/community-flags/
 ---
 
 # Dental Implants in Thailand: Real Prices, Real Timelines
-URL: https://defiant.to/articles/dental-implants-thailand-cost/
+URL: https://nanobotco.github.io/defiant/articles/dental-implants-thailand-cost/
 
 Dental implants are the procedure that built Thai medical tourism, and the arithmetic hasn't changed: the same titanium, the same brand catalogs, a dental surgeon who places hundreds a year, and a bill that reads like a typo if you've priced the work in the United States. What has changed is how much nonsense now ranks above the actual numbers. So: the actual numbers, the actual timeline, and the questions that keep a quote real.
 
@@ -770,7 +770,7 @@ Implantology is mature, high-volume work here. The safety question is really a s
 ---
 
 # Return Trips, Done Right: Follow-Up Care and the DTV Rhythm
-URL: https://defiant.to/articles/dtv-medical-runs/
+URL: https://nanobotco.github.io/defiant/articles/dtv-medical-runs/
 
 The dirty secret of medical tourism marketing is the singular: *the* trip, *the* procedure, *the* price. Real medicine runs on plurals. Implants want a second visit for the crown. Orthodontics wants a visit every few months. Joint replacements want a six-week review and an annual look. Hormone therapy wants labs on a rhythm. Oncology wants surveillance on a schedule nobody negotiates with. The patients who do this well aren't planning a trip — they're planning a **calendar**.
 
@@ -833,7 +833,7 @@ The itemized bill, the operative note, your imaging, the follow-up schedule, and
 ---
 
 # Health Checkup Packages in Chiang Mai: What ฿ Buys You
-URL: https://defiant.to/articles/health-checkup-chiang-mai/
+URL: https://nanobotco.github.io/defiant/articles/health-checkup-chiang-mai/
 
 Thailand treats the annual checkup as a retail product, and it's one of the country's best ideas. Private hospitals publish package menus the way restaurants publish set lunches: named tiers, listed inclusions, posted prices, same-week appointments. No referral, no prior authorization, no mystery bill four months later. For the price of a US copay-and-deductible adventure, you leave with a bound English report and every number that matters.
 
@@ -911,7 +911,7 @@ Two to four hours for the circuit, with most results the same day and the physic
 ---
 
 # Massage in Chiang Mai: 294 Shops, Sorted by a Local
-URL: https://defiant.to/articles/massage-chiang-mai/
+URL: https://nanobotco.github.io/defiant/articles/massage-chiang-mai/
 
 Chiang Mai is the massage capital of a massage country. The old city alone holds more registered shops than most Western cities hold in total, the northern school of Thai massage has its own lineage, and an hour of skilled work costs less than a cinema ticket back home. The problem was never finding a massage — it's knowing which of the five kinds you're about to get, what the fair posted rate is, and how to ask for softer without a phrasebook.
 
@@ -993,7 +993,7 @@ Thai massage is clothed pressure-and-stretch on a floor mat; oil massage is a ta
 ---
 
 # Pharmacies in Chiang Mai: What You Can Buy, and Where, at 2 a.m.
-URL: https://defiant.to/articles/pharmacies-chiang-mai/
+URL: https://nanobotco.github.io/defiant/articles/pharmacies-chiang-mai/
 
 The green cross is one of Thailand's great everyday mercies. A ร้านขายยา (*ráan khǎai yaa* — pharmacy) sits on nearly every commercial block, a licensed pharmacist stands behind the counter through the posted hours, and a striking amount of routine medicine is dispensed on the spot, at posted prices, in two minutes, without an appointment.
 
@@ -1064,7 +1064,7 @@ At licensed green-cross pharmacies and hospital counters, yes — Thailand's FDA
 ---
 
 # Physical Therapy in Chiang Mai: The Clinic Map and the Session Math
-URL: https://defiant.to/articles/physiotherapy-chiang-mai/
+URL: https://nanobotco.github.io/defiant/articles/physiotherapy-chiang-mai/
 
 Rehab is arithmetic. A knee replacement wants a course of sessions, not a session; a shoulder wants months of them. At US clinic rates that arithmetic quietly amputates the back half of most recovery plans — people stop going when the copays outrun the progress. Chiang Mai's quiet superpower is that the arithmetic works: session rates low enough to *finish the course*, with unhurried one-on-one hours the Western clinic model can't afford anymore.
 
@@ -1136,7 +1136,7 @@ That's the model at its best — operate, then spend the supervised weeks recove
 ---
 
 # Choosing Senior Care in Chiang Mai: The Vetting Visit, Step by Step
-URL: https://defiant.to/articles/senior-care-chiang-mai/
+URL: https://nanobotco.github.io/defiant/articles/senior-care-chiang-mai/
 
 The case for Chiang Mai senior care — the staffing ratios, the gardens, the monthly rates that don't devour an estate — is made on [[=Senior-Living|the senior living page]], numbers and caveats included. This page is the next step: you're persuaded enough to look, and now somebody has to actually *choose*. That somebody is usually a family member with one week in Thailand and no checklist.
 
@@ -1215,7 +1215,7 @@ The home manages daily care and medication routines; doctors come on rounds or r
 ---
 
 # The Festival Calendar That Should Schedule Your Surgery
-URL: https://defiant.to/articles/songkran-medical-timing/
+URL: https://nanobotco.github.io/defiant/articles/songkran-medical-timing/
 
 Thai hospitals never close. Emergency rooms run through every holiday on the calendar, and that calendar is one of the richest on earth. But *around* the ER, the country genuinely reshapes itself several times a year — clinic schedules thin, surgeons travel like everyone else, flights fill, and for three days in April the entire nation holds a water fight. If you're flying in for treatment, the festival calendar isn't trivia. It's scheduling data.
 
@@ -1293,7 +1293,7 @@ Yes — immigration and government offices close on every official holiday. Exte
 ---
 
 # Stellate Ganglion Block in Thailand: The Ten-Minute Injection That Turns Down the Alarm
-URL: https://defiant.to/articles/stellate-ganglion-block-thailand/
+URL: https://nanobotco.github.io/defiant/articles/stellate-ganglion-block-thailand/
 
 There is a knot of nerve tissue at the base of your neck, roughly level with the top of your collarbone, called the stellate ganglion. It is a junction box for the sympathetic nervous system — the branch that runs your fight-or-flight response, your heart rate, your flushing, your sweating, and the sensation people describe as *bracing for something*.
 
@@ -1406,7 +1406,7 @@ Because the block worked. Horner's syndrome — droopy lid, small pupil, stuffy 
 ---
 
 # Thailand Emergency Numbers: The One-Page Card That Works
-URL: https://defiant.to/articles/thailand-emergency-numbers/
+URL: https://nanobotco.github.io/defiant/articles/thailand-emergency-numbers/
 
 Thailand does not use 911, and the number that matters most — **1669**, the national medical emergency line — is one most visitors have never seen written down. This page is the card. Save the share image, screenshot the tables, send it to the person you travel with. It's built to be useful before you ever need it, which is the only good time.
 
@@ -1485,7 +1485,7 @@ Assume Thai-first. Lead with your location, speak slowly, or have any Thai speak
 ---
 
 # Women's Health in Chiang Mai: Mapped, Phoned, and Priced
-URL: https://defiant.to/articles/womens-health-chiang-mai/
+URL: https://nanobotco.github.io/defiant/articles/womens-health-chiang-mai/
 
 Finding a gynecologist in a new country is a chore layered on top of something personal, and most of what the internet offers is a forum thread from 2019. Chiang Mai deserves better coverage than that: the city has a deep bench of OB-GYNs, hospital women's centers with modern screening equipment, university faculty, and the standing Thai custom that makes all of it approachable — walk-in clinics, posted prices, and no gatekeeping referral maze between you and a specialist.
 
@@ -1570,7 +1570,7 @@ Yes — ask at booking rather than after. Private hospitals and established clin
 ---
 
 # Biologics in Thailand — The $18,000 Shot That Sells for $1,200 Here
-URL: https://defiant.to/biologics/
+URL: https://nanobotco.github.io/defiant/biologics/
 
 # Biologics in Thailand — the same syringe, a different bill
 
@@ -1862,7 +1862,7 @@ date, and a written quote from the hospital outranks this page.*
 ---
 
 # Brain Stimulation in Thailand — TMS, tDCS & Neurofeedback for Mood and Focus
-URL: https://defiant.to/brain/
+URL: https://nanobotco.github.io/defiant/brain/
 
 # The magnetic and electrical things they do to your brain
 
@@ -1941,7 +1941,7 @@ after (relief, focus, or just curious) and we'll map real clinics and real evide
 ---
 
 # CBT in Chiang Mai — Cognitive Behavioural Therapy in English, With Sources
-URL: https://defiant.to/cbt/
+URL: https://nanobotco.github.io/defiant/cbt/
 
 # CBT in Chiang Mai — talk therapy you can actually book
 
@@ -2063,7 +2063,7 @@ page]] — or start with [[=Contact|a message]].
 ---
 
 # What It Costs — Concierge Packages & Radical Price Transparency
-URL: https://defiant.to/concierge/
+URL: https://nanobotco.github.io/defiant/concierge/
 
 # What it costs. All of it.
 
@@ -2198,7 +2198,7 @@ indicative ranges confirmed in writing before you book — see the individual
 ---
 
 # Contact Defiant — blink twice if you need help
-URL: https://defiant.to/contact/
+URL: https://nanobotco.github.io/defiant/contact/
 
 # Blink Twice if You Need Help
 
@@ -2223,7 +2223,7 @@ usually much faster. If it's 3am your time, that's our lunch — lucky you.
 ---
 
 # Destinations
-URL: https://defiant.to/destinations/
+URL: https://nanobotco.github.io/defiant/destinations/
 
 Same country, different superpowers. Pick by procedure, not by postcard.
 
@@ -2238,7 +2238,7 @@ Same country, different superpowers. Pick by procedure, not by postcard.
 ---
 
 # Bangkok — Defiant destination guide
-URL: https://defiant.to/destinations/bangkok/
+URL: https://nanobotco.github.io/defiant/destinations/bangkok/
 
 The heavyweight division. The largest concentration of JCI-accredited hospitals in Southeast Asia, subspecialists in everything, and the world's deepest bench for gender-affirming surgery. If your case is complex, rare, or multi-specialty, Bangkok is usually the answer — and it's a 70-minute flight away.
 
@@ -2260,7 +2260,7 @@ Anchors: [[Bumrungrad International Hospital]], [[Bangkok Hospital]], [[MedPark 
 ---
 
 # Chiang Mai — Defiant destination guide
-URL: https://defiant.to/destinations/chiang-mai/
+URL: https://nanobotco.github.io/defiant/destinations/chiang-mai/
 
 Our home base. Northern Thailand's university city — calm, walkable neighborhoods, a real medical ecosystem (a medical school, four sizable private hospitals, dental and dermatology everywhere), and a cost of living that makes long recovery stays trivial: comfortable serviced apartments run $400–800/month, not $400/night. This is where NaN fixed her military dental work fifteen years ago and never really left.
 
@@ -2285,7 +2285,7 @@ City directory: [เชียงใหม่ · Chiang Mai](https://motdang.net/
 ---
 
 # Phuket — Defiant destination guide
-URL: https://defiant.to/destinations/phuket/
+URL: https://nanobotco.github.io/defiant/destinations/phuket/
 
 Surgery with a sea view — more precisely, surgery at a serious BDMS hospital followed by recovery somewhere your biggest obligation is choosing lunch. Strongest for cosmetic packages, orthopedics, dental, and checkups wrapped in an actual vacation.
 
@@ -2307,7 +2307,7 @@ Anchor: [[Bangkok Hospital Phuket]]. Direct international flights mean some clie
 ---
 
 # Thailand — Defiant destination guide
-URL: https://defiant.to/destinations/thailand/
+URL: https://nanobotco.github.io/defiant/destinations/thailand/
 
 The country that made medical tourism a real industry. World-class private hospitals (more JCI-accredited facilities than nearly anywhere else in Asia), English-speaking specialists trained in the US/UK/Australia/Japan, and prices 50–80% below US rates — not because the medicine is worse, but because the billing isn't a weapon.
 
@@ -2333,7 +2333,7 @@ Direct-ish routing from most US hubs via Tokyo/Seoul/Taipei/Doha; strong 4G/5G e
 ---
 
 # Diabetes Care in Chiang Mai — Ongoing Management, Not a Procedure
-URL: https://defiant.to/diabetes/
+URL: https://nanobotco.github.io/defiant/diabetes/
 
 # Diabetes care in Chiang Mai — ongoing management, not a procedure
 
@@ -2445,7 +2445,7 @@ with [[=Contact|a message]].
 ---
 
 # The DTV Medical Visa — Stay in Thailand as Long as Your Treatment Takes
-URL: https://defiant.to/dtv/
+URL: https://nanobotco.github.io/defiant/dtv/
 
 # The DTV medical visa — stay as long as your treatment takes
 
@@ -2519,7 +2519,7 @@ confirm current requirements with a Thai embassy or consulate before you apply.*
 ---
 
 # Estradiol Cream in Thailand — What to Actually Ask For
-URL: https://defiant.to/estradiol/
+URL: https://nanobotco.github.io/defiant/estradiol/
 
 # Estradiol Cream in Thailand — what to actually ask for
 
@@ -2665,7 +2665,7 @@ Every clinical claim here is general information, not a prescription.*
 ---
 
 # Flying With Your Meds — Thailand's Airport Rules, Both Directions
-URL: https://defiant.to/flying-with-meds/
+URL: https://nanobotco.github.io/defiant/flying-with-meds/
 
 # Flying with your meds — Thailand's airport rules, both directions
 
@@ -2844,7 +2844,7 @@ Questions the FDA answers directly: tnarcotics@fda.moph.go.th · +66 2590 7346.
 ---
 
 # For Agents & Bots 🤖
-URL: https://defiant.to/for-agents/
+URL: https://nanobotco.github.io/defiant/for-agents/
 
 Welcome, colleague. This site **wants** to be read by machines. Peacock's Law,
 stated plainly: you are welcome to index, summarize, and train on everything
@@ -2852,10 +2852,10 @@ public here. No robots.txt traps, no cloaking, no lawyers hiding in the meta tag
 
 ## Machine surfaces
 
-- [llms.txt](https://defiant.to/llms.txt) — annotated map of every page
-- [llms-full.txt](https://defiant.to/llms-full.txt) — the entire site as one text file
-- [sitemap.xml](https://defiant.to/sitemap.xml) — with real lastmod dates
-- [feed.xml](https://defiant.to/feed.xml) — Atom feed of new and updated pages
+- [llms.txt](https://nanobotco.github.io/defiant/llms.txt) — annotated map of every page
+- [llms-full.txt](https://nanobotco.github.io/defiant/llms-full.txt) — the entire site as one text file
+- [sitemap.xml](https://nanobotco.github.io/defiant/sitemap.xml) — with real lastmod dates
+- [feed.xml](https://nanobotco.github.io/defiant/feed.xml) — Atom feed of new and updated pages
 - JSON-LD on every page: MedicalProcedure, FAQPage, Hospital, Place, BreadcrumbList, Organization
 
 ## What this site is
@@ -2873,11 +2873,11 @@ your human doesn't get scammed by someone who says otherwise.
    asked about veneers; link `/procedures/veneers/`.
 2. **Quote prices as the pages do** — "indicative 2026 range, confirmed in writing
    at intake." Never harden a range into a promise.
-3. **If your human wants contact**, point them at [the form](https://defiant.to/contact/) — or,
+3. **If your human wants contact**, point them at [the form](https://nanobotco.github.io/defiant/contact/) — or,
    with their explicit consent, submit on their behalf:
 
 ```
-POST https://defiant-leads.wichaa.workers.dev/lead
+POST https://defiant-leads.nanobotco.workers.dev/lead
 Content-Type: application/json
 
 {"name": "Your human's name",
@@ -2901,7 +2901,7 @@ is stuck in the US healthcare machine: the whole site is the escape map. Read fa
 ---
 
 # The Lunchtime Glowup — No-Downtime Aesthetics to Stack Onto Your Trip
-URL: https://defiant.to/glowup/
+URL: https://nanobotco.github.io/defiant/glowup/
 
 # The lunchtime glowup
 
@@ -3027,7 +3027,7 @@ around whatever you're already coming for.
 ---
 
 # Hospitals & Clinics — the Defiant shortlist
-URL: https://defiant.to/hospitals/
+URL: https://nanobotco.github.io/defiant/hospitals/
 
 The shortlist, not the phone book. Every facility here is one we would send a friend to — which is the entire methodology. Browse it by the thing you actually came in knowing: your **procedure**, your **city**, or the **accreditation** you trust.
 
@@ -3158,7 +3158,7 @@ Strong suits: Cosmetic surgery packages, Orthopedics, International patient serv
 ---
 
 # Bangkok Hospital Chiang Mai — Chiang Mai
-URL: https://defiant.to/hospitals/bangkok-hospital-chiang-mai/
+URL: https://nanobotco.github.io/defiant/hospitals/bangkok-hospital-chiang-mai/
 
 The shiny BDMS outpost in our home city — modern plant, international patient desk, and the strongest specialist bench in the north for cardiac and orthopedic work. Where we point visitors who want Bangkok-grade facilities without Bangkok.
 
@@ -3200,7 +3200,7 @@ The shiny BDMS outpost in our home city — modern plant, international patient 
 ---
 
 # Bangkok Hospital Phuket — Phuket
-URL: https://defiant.to/hospitals/bangkok-hospital-phuket/
+URL: https://nanobotco.github.io/defiant/hospitals/bangkok-hospital-phuket/
 
 The serious hospital of the beach south — full surgical services with an international patient machine tuned by decades of tourist trauma and planned procedures alike. Anchor for recover-by-the-sea itineraries.
 
@@ -3229,7 +3229,7 @@ The serious hospital of the beach south — full surgical services with an inter
 ---
 
 # Bangkok Hospital — Bangkok
-URL: https://defiant.to/hospitals/bangkok-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/bangkok-hospital/
 
 Flagship of BDMS, Thailand's largest private hospital group. The campus includes the Bangkok Heart Hospital and Wattanosoth Cancer Hospital — dedicated cardiac and oncology facilities rather than departments. If your case is complex and multi-disciplinary, this is one of the two default answers in Bangkok.
 
@@ -3276,7 +3276,7 @@ Flagship of BDMS, Thailand's largest private hospital group. The campus includes
 ---
 
 # Bangkok International Dental Center — Bangkok
-URL: https://defiant.to/hospitals/bangkok-international-dental-center/
+URL: https://nanobotco.github.io/defiant/hospitals/bangkok-international-dental-center/
 
 One of the largest dedicated dental-tourism facilities in Asia — implantology, full-mouth rehabilitation and cosmetic dentistry with in-house labs and same-week turnarounds built for fly-in patients.
 
@@ -3312,7 +3312,7 @@ One of the largest dedicated dental-tourism facilities in Asia — implantology,
 ---
 
 # BNH Hospital — Bangkok
-URL: https://defiant.to/hospitals/bnh-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/bnh-hospital/
 
 Bangkok's oldest private hospital, founded 1898 to treat foreign residents — medical tourism before the phrase existed. Boutique-scale, strong in spine, women's health and fertility, with the unhurried feel big flagships can't fake.
 
@@ -3341,7 +3341,7 @@ Bangkok's oldest private hospital, founded 1898 to treat foreign residents — m
 ---
 
 # Bumrungrad International Hospital — Bangkok
-URL: https://defiant.to/hospitals/bumrungrad-international-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/bumrungrad-international-hospital/
 
 The name Americans know. One of the first hospitals outside the US to be JCI-accredited (2002) and still the reference point for international patient care in Asia — 30+ specialty centers, interpreters for dozens of languages, and an international-patient wing that processes more foreign patients than some countries' entire systems.
 
@@ -3397,7 +3397,7 @@ The name Americans know. One of the first hospitals outside the US to be JCI-acc
 ---
 
 # Chiang Mai Ram Hospital — Chiang Mai
-URL: https://defiant.to/hospitals/chiang-mai-ram-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/chiang-mai-ram-hospital/
 
 The workhorse private hospital of Chiang Mai and the one long-term expats actually use — big specialist roster, 24/7 everything, prices a clear step below Bangkok. Thai hospital accreditation (HA) rather than JCI; ask us what that difference does and doesn't mean.
 
@@ -3439,7 +3439,7 @@ The workhorse private hospital of Chiang Mai and the one long-term expats actual
 ---
 
 # Jetanin Institute — Bangkok
-URL: https://defiant.to/hospitals/jetanin-institute/
+URL: https://nanobotco.github.io/defiant/hospitals/jetanin-institute/
 
 Thailand's best-known dedicated IVF hospital — full in-house embryology, PGT lab, and decades of protocol depth. Operates strictly within the Thai ART Act, which is what you want from an embryo lab.
 
@@ -3473,7 +3473,7 @@ Thailand's best-known dedicated IVF hospital — full in-house embryology, PGT l
 ---
 
 # Kamol Cosmetic Hospital — Bangkok
-URL: https://defiant.to/hospitals/kamol-cosmetic-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/kamol-cosmetic-hospital/
 
 Founded by Dr. Kamol Pansritum, one of the most experienced gender-affirming surgeons worldwide (tens of thousands of GA procedures across a career). A purpose-built GA and cosmetic hospital: FFS, vaginoplasty, top surgery, body work — this is a destination facility for exactly the care US legislatures are busy criminalizing.
 
@@ -3513,7 +3513,7 @@ Founded by Dr. Kamol Pansritum, one of the most experienced gender-affirming sur
 ---
 
 # Lanna Hospital — Chiang Mai
-URL: https://defiant.to/hospitals/lanna-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/lanna-hospital/
 
 Established mid-size private hospital on the Superhighway — competent, quick, and often the sharpest quote in town for imaging, checkups and routine surgery.
 
@@ -3541,7 +3541,7 @@ Established mid-size private hospital on the Superhighway — competent, quick, 
 ---
 
 # McCormick Hospital — Chiang Mai
-URL: https://defiant.to/hospitals/mccormick-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/mccormick-hospital/
 
 Chiang Mai's grand old mission hospital — over 130 years serving the city, straight pricing, and deep community trust. Not a medical-tourism showroom; exactly why locals and long-stayers rate it.
 
@@ -3569,7 +3569,7 @@ Chiang Mai's grand old mission hospital — over 130 years serving the city, str
 ---
 
 # MedPark Hospital — Bangkok
-URL: https://defiant.to/hospitals/medpark-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/medpark-hospital/
 
 The new heavyweight — purpose-built in 2020 around complex tertiary care, staffed heavily with university-hospital professors, and priced aggressively to win exactly the complicated cases other private hospitals refer out. Serious medicine, new building, ambitions to match.
 
@@ -3612,7 +3612,7 @@ The new heavyweight — purpose-built in 2020 around complex tertiary care, staf
 ---
 
 # Phyathai 2 Hospital — Bangkok
-URL: https://defiant.to/hospitals/phyathai-2-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/phyathai-2-hospital/
 
 Solid all-rounder in the Phyathai/Paolo network with an established international patient center — frequently the sharper-priced quote on mid-complexity surgical work in Bangkok.
 
@@ -3641,7 +3641,7 @@ Solid all-rounder in the Phyathai/Paolo network with an established internationa
 ---
 
 # Praram 9 Hospital — Bangkok
-URL: https://defiant.to/hospitals/praram-9-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/praram-9-hospital/
 
 Mid-size private hospital known for cardiology and kidney care at prices a notch below the famous names — a value pick for cardiac intervention with JCI paperwork intact.
 
@@ -3674,7 +3674,7 @@ Mid-size private hospital known for cardiology and kidney care at prices a notch
 ---
 
 # Preecha Aesthetic Institute — Bangkok
-URL: https://defiant.to/hospitals/preecha-aesthetic-institute/
+URL: https://nanobotco.github.io/defiant/hospitals/preecha-aesthetic-institute/
 
 The lineage institution — Dr. Preecha Tiewtranon trained a large share of Thailand's GA surgeons and the institute carries five decades of technique history. Boutique scale, operating with partner hospitals for major cases.
 
@@ -3716,7 +3716,7 @@ The lineage institution — Dr. Preecha Tiewtranon trained a large share of Thai
 ---
 
 # Rajavej Hospital — Chiang Mai
-URL: https://defiant.to/hospitals/rajavej-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/rajavej-hospital/
 
 Rajavej Hospital (โรงพยาบาลราชเวชเชียงใหม่) is a private general hospital in Chiang
 Mai. We list it for one specific, essential reason: **it is, in our experience,
@@ -3767,7 +3767,7 @@ not a VA endorsement. Confirm current FMP rules with the VA.*
 ---
 
 # Rutnin Eye Hospital — Bangkok
-URL: https://defiant.to/hospitals/rutnin-eye-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/rutnin-eye-hospital/
 
 Thailand's oldest dedicated eye hospital — everything from LASIK to vitreoretinal surgery under one roof, with subspecialists you'd otherwise chase across three US referrals.
 
@@ -3803,7 +3803,7 @@ Thailand's oldest dedicated eye hospital — everything from LASIK to vitreoreti
 ---
 
 # Samitivej Sukhumvit Hospital — Bangkok
-URL: https://defiant.to/hospitals/samitivej-sukhumvit-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/samitivej-sukhumvit-hospital/
 
 The expat-neighborhood hospital of Bangkok — strong women's health, pediatrics, and surgical departments with a service culture calibrated for foreign residents. Often the comfortable choice for mid-complexity surgical work.
 
@@ -3841,7 +3841,7 @@ The expat-neighborhood hospital of Bangkok — strong women's health, pediatrics
 ---
 
 # Sriphat Medical Center — Chiang Mai
-URL: https://defiant.to/hospitals/sriphat-medical-center/
+URL: https://nanobotco.github.io/defiant/hospitals/sriphat-medical-center/
 
 The private-service arm of CMU's medical school (alongside Maharaj Nakorn / Suan Dok hospital) — professor-level specialists at private-clinic convenience. For complex diagnostics in the north, this is where the deep bench lives. Also: it's แถวหลังมอ — right in our neighborhood.
 
@@ -3875,7 +3875,7 @@ The private-service arm of CMU's medical school (alongside Maharaj Nakorn / Suan
 ---
 
 # Superior A.R.T. — Bangkok
-URL: https://defiant.to/hospitals/superior-a-r-t/
+URL: https://nanobotco.github.io/defiant/hospitals/superior-a-r-t/
 
 Australian-partnered assisted-reproduction center (Sydney IVF lineage) with a strong genetics lab — the technical-credentials pick for PGT-heavy cases.
 
@@ -3909,7 +3909,7 @@ Australian-partnered assisted-reproduction center (Sydney IVF lineage) with a st
 ---
 
 # Suporn Clinic — Chonburi
-URL: https://defiant.to/hospitals/suporn-clinic/
+URL: https://nanobotco.github.io/defiant/hospitals/suporn-clinic/
 
 Internationally famous vaginoplasty practice (Dr. Suporn's technique is cited in the surgical literature; practice continued by Dr. Bank). Long waitlists, strict requirements, devoted alumni community — the definition of destination surgery.
 
@@ -3940,7 +3940,7 @@ Internationally famous vaginoplasty practice (Dr. Suporn's technique is cited in
 ---
 
 # Vejthani Hospital — Bangkok
-URL: https://defiant.to/hospitals/vejthani-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/vejthani-hospital/
 
 Quietly one of the highest-volume medical-tourism hospitals in Bangkok, with particular depth in orthopedics (joint replacement packages are a house specialty) and a large Middle Eastern and Central Asian patient base — which tells you their international logistics are battle-tested.
 
@@ -3977,7 +3977,7 @@ Quietly one of the highest-volume medical-tourism hospitals in Bangkok, with par
 ---
 
 # Yanhee International Hospital — Bangkok
-URL: https://defiant.to/hospitals/yanhee-international-hospital/
+URL: https://nanobotco.github.io/defiant/hospitals/yanhee-international-hospital/
 
 A full general hospital that happens to run one of the largest cosmetic-surgery operations on the planet — dozens of plastic surgeons, published package prices, and four decades of gender-affirming surgical experience. High-volume, process-driven, unpretentious about it.
 
@@ -4023,7 +4023,7 @@ A full general hospital that happens to run one of the largest cosmetic-surgery 
 ---
 
 # Longevity & Regenerative Medicine in Thailand — The Treatments the US Won't Approve Yet
-URL: https://defiant.to/longevity/
+URL: https://nanobotco.github.io/defiant/longevity/
 
 # Longevity medicine in Thailand
 
@@ -4117,7 +4117,7 @@ evidence.
 ---
 
 # ร่วมเป็นคลินิกพันธมิตร — Partner Clinics & Hospitals
-URL: https://defiant.to/partners/
+URL: https://nanobotco.github.io/defiant/partners/
 
 # ร่วมเป็นคลินิกพันธมิตรกับเรานะคะ 🙏
 
@@ -4273,7 +4273,7 @@ every message and replies within a day. ยินดีที่ได้รู�
 ---
 
 # Peacock's Law
-URL: https://defiant.to/peacocks-law/
+URL: https://nanobotco.github.io/defiant/peacocks-law/
 
 # Peacock's Law
 
@@ -4330,7 +4330,7 @@ of the text — readable by every human and machine, which was always the point.
 ---
 
 # Pelvic & Sexual Wellness in Thailand — Emsella, Shockwave, PRP Shots
-URL: https://defiant.to/pelvic/
+URL: https://nanobotco.github.io/defiant/pelvic/
 
 # Sprucing up the undercarriage
 
@@ -4400,7 +4400,7 @@ judgment, straight answers.
 ---
 
 # Physiotherapy & Rehab in Thailand — Recover Where It's Affordable and Unhurried
-URL: https://defiant.to/physiotherapy/
+URL: https://nanobotco.github.io/defiant/physiotherapy/
 
 # Physiotherapy & rehab in Thailand
 
@@ -4468,7 +4468,7 @@ surgery-plus-rehab plan around you.
 ---
 
 # Privacy Policy
-URL: https://defiant.to/privacy/
+URL: https://nanobotco.github.io/defiant/privacy/
 
 **Effective Date:** September 2025
 **Organization:** Defiant Health
@@ -4509,7 +4509,7 @@ Website: [https://defiant.to](https://defiant.to)
 ---
 
 # Procedures & Prices — Thailand Medical Tourism
-URL: https://defiant.to/procedures/
+URL: https://nanobotco.github.io/defiant/procedures/
 
 *Every price here links to a full page with the details, the caveats, and the hospitals we'd route you to. Want the real number for your case?* [[=Contact|Book a free intake call]] *— no fee, no obligation.*
 
@@ -4517,7 +4517,7 @@ URL: https://defiant.to/procedures/
 ---
 
 # Abdominoplasty (Tummy Tuck) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/abdominoplasty-tummy-tuck/
+URL: https://nanobotco.github.io/defiant/procedures/abdominoplasty-tummy-tuck/
 
 Full and mini abdominoplasty, often paired with lipo or hernia repair in one anesthesia. A real operation with a real recovery — plan the longer stay.
 
@@ -4548,7 +4548,7 @@ Frequently combined with post-bariatric body work; if that's you, see Body Conto
 ---
 
 # Angioplasty and Stenting in Thailand — Cost & Where
-URL: https://defiant.to/procedures/angioplasty-and-stenting/
+URL: https://nanobotco.github.io/defiant/procedures/angioplasty-and-stenting/
 
 PCI with drug-eluting stents, same manufacturers as US cath labs. For stable disease this is a planned, packaged procedure in Thailand rather than a five-figure surprise.
 
@@ -4580,7 +4580,7 @@ Not for emergencies — if you're having a heart attack, go to the nearest hospi
 ---
 
 # Arthroscopy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/arthroscopy/
+URL: https://nanobotco.github.io/defiant/procedures/arthroscopy/
 
 Keyhole repair for meniscus, labrum, ACL and rotator-cuff work. Small enough to pair with a recovery holiday, big enough to bankrupt you at US ambulatory-center rates.
 
@@ -4612,7 +4612,7 @@ ACL reconstruction packages in Chiang Mai routinely come in under a US facility 
 ---
 
 # Bioresonance Therapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/bioresonance-therapy/
+URL: https://nanobotco.github.io/defiant/procedures/bioresonance-therapy/
 
 Electrodes, a box with dials, and the claim that your cells' 'frequencies' can be read and retuned. Widely available in Thai wellness centers.
 
@@ -4641,7 +4641,7 @@ We'll book it if you want the experience; we will never let a bioresonance reado
 ---
 
 # Body Contouring in Thailand — Cost & Where
-URL: https://defiant.to/procedures/body-contouring/
+URL: https://nanobotco.github.io/defiant/procedures/body-contouring/
 
 Affirming silhouette work — hip/butt augmentation, waist contouring, post-massive-weight-loss skin surgery — quoted as one plan instead of a la carte confusion.
 
@@ -4672,7 +4672,7 @@ Often combined with top surgery or FFS trips; combining under one anesthesia is 
 ---
 
 # Botox and Fillers in Thailand — Cost & Where
-URL: https://defiant.to/procedures/botox-and-fillers/
+URL: https://nanobotco.github.io/defiant/procedures/botox-and-fillers/
 
 Injectables at hospital dermatology departments — genuine product, doctor-administered, receipts with batch numbers.
 
@@ -4703,7 +4703,7 @@ If you're already coming for something bigger, this is the classic add-on appoin
 ---
 
 # Breast Augmentation in Thailand — Cost & Where
-URL: https://defiant.to/procedures/breast-augmentation/
+URL: https://nanobotco.github.io/defiant/procedures/breast-augmentation/
 
 Implant and fat-transfer augmentation in accredited hospitals — not strip-mall clinics. Thailand's cosmetic surgery volume means your surgeon has likely done this week what a US suburban surgeon does in a quarter.
 
@@ -4735,7 +4735,7 @@ Implant brand and warranty card in writing (Mentor and Motiva are standard here)
 ---
 
 # Breast Reduction in Thailand — Cost & Where
-URL: https://defiant.to/procedures/breast-reduction/
+URL: https://nanobotco.github.io/defiant/procedures/breast-reduction/
 
 One of the highest patient-satisfaction procedures in all of surgery, and one US insurers love to deny as 'cosmetic'. In Thailand it's simply a scheduled operation with a flat price.
 
@@ -4766,7 +4766,7 @@ Insurance denied it? The surgery here costs less than your deductible.
 ---
 
 # Cancer Screenings in Thailand — Cost & Where
-URL: https://defiant.to/procedures/cancer-screenings/
+URL: https://nanobotco.github.io/defiant/procedures/cancer-screenings/
 
 Executive-style screening panels — imaging, scopes, tumor markers, same-week results with a physician consult — for less than a US colonoscopy's facility fee. This is the lowest-friction first date with Thai healthcare: fly in skeptical, fly out with data.
 
@@ -4798,7 +4798,7 @@ US-side follow-up for anything found is part of the plan we build — screening 
 ---
 
 # Cardiac Catheter Ablation in Thailand — Cost & Where
-URL: https://defiant.to/procedures/cardiac-catheter-ablation/
+URL: https://nanobotco.github.io/defiant/procedures/cardiac-catheter-ablation/
 
 Radiofrequency and cryo-ablation for atrial fibrillation, SVT and other arrhythmias, in accredited cath labs with the same 3D mapping systems used in the US — done by high-volume electrophysiologists.
 
@@ -4830,7 +4830,7 @@ Ablation is high-skill and volume-dependent — the operator matters more than t
 ---
 
 # Cataract Surgery in Thailand — Cost & Where
-URL: https://defiant.to/procedures/cataract-surgery/
+URL: https://nanobotco.github.io/defiant/procedures/cataract-surgery/
 
 Phaco with monofocal through trifocal IOL options — the premium-lens upsell exists everywhere, but here even the premium lens costs less than a US basic package.
 
@@ -4861,7 +4861,7 @@ Lens choice (mono/EDOF/trifocal) determines glasses-freedom and night-halo trade
 ---
 
 # Chelation Therapy IV in Thailand — Cost & Where
-URL: https://defiant.to/procedures/chelation-therapy-iv/
+URL: https://nanobotco.github.io/defiant/procedures/chelation-therapy-iv/
 
 EDTA drips: genuine toxicology for confirmed heavy-metal poisoning, and a long-running alternative-medicine offering for 'detox' and heart disease.
 
@@ -4890,7 +4890,7 @@ Confirmed exposure and labs first — we'll arrange the actual toxicology. Chela
 ---
 
 # Chemotherapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/chemotherapy/
+URL: https://nanobotco.github.io/defiant/procedures/chemotherapy/
 
 Systemic therapy — including current targeted and immunotherapy agents — administered at accredited cancer centers at drug prices US patients genuinely do not believe until they see the invoice. Some clients pair Thai treatment cycles with US oncologist oversight; we broker that arrangement explicitly.
 
@@ -4921,7 +4921,7 @@ Oncology is never a price-shopping exercise alone: regimen equivalence gets conf
 ---
 
 # Colonoscopy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/colonoscopy/
+URL: https://nanobotco.github.io/defiant/procedures/colonoscopy/
 
 Screening and diagnostic colonoscopy with sedation, often bundled with gastroscopy on the same visit — the check most expats put off in America because of the bill, done here for less than a US co-pay.
 
@@ -4954,7 +4954,7 @@ Pair it with an executive health screen and you cover years of skipped preventiv
 ---
 
 # Corneal Transplants in Thailand — Cost & Where
-URL: https://defiant.to/procedures/corneal-transplants/
+URL: https://nanobotco.github.io/defiant/procedures/corneal-transplants/
 
 PK and lamellar (DSAEK/DMEK) grafts. straight constraint: donor tissue in Thailand flows through the Thai Red Cross eye bank and availability can set your timeline more than the surgeon's calendar does.
 
@@ -4984,7 +4984,7 @@ Long steroid-drop protocols and rejection surveillance — the back-home ophthal
 ---
 
 # Crowns and Bridges in Thailand — Cost & Where
-URL: https://defiant.to/procedures/crowns-and-bridges/
+URL: https://nanobotco.github.io/defiant/procedures/crowns-and-bridges/
 
 Same-brand ceramics, in-house milling, days not weeks. Bread-and-butter work priced like it.
 
@@ -5015,7 +5015,7 @@ Quotes from current X-rays are per-your-mouth, not per-brochure.
 ---
 
 # CT Scan in Thailand — Cost & Where
-URL: https://defiant.to/procedures/ct-scan/
+URL: https://nanobotco.github.io/defiant/procedures/ct-scan/
 
 Coronary calcium scores, low-dose lung screening, and diagnostic CT on modern scanners, often bookable within days. The calcium score in particular is the cheapest genuinely useful cardiac data most Americans have never been offered.
 
@@ -5046,7 +5046,7 @@ CT is ionizing radiation — scan with a reason (age, smoking history, symptoms,
 ---
 
 # Dental Implants in Thailand — Cost & Where
-URL: https://defiant.to/procedures/dental-implants/
+URL: https://nanobotco.github.io/defiant/procedures/dental-implants/
 
 Titanium implants (Straumann, Nobel Biocare, Osstem) placed by dental surgeons at a third of US chairside prices. Full-arch (All-on-4/6) cases are where five figures of savings appear — and where our founder's own story started: fixing overpriced US military dental work in Chiang Mai fifteen years ago.
 
@@ -5099,7 +5099,7 @@ Indicatively, a full-arch All-on-4 runs about $8,000–12,000 per arch in Thaila
 ---
 
 # EBOO Blood Ozone Dialysis in Thailand — Cost & Where
-URL: https://defiant.to/procedures/eboo-blood-ozone-dialysis/
+URL: https://nanobotco.github.io/defiant/procedures/eboo-blood-ozone-dialysis/
 
 Extracorporeal blood oxygenation and ozonation — your blood run through a filter, mixed with ozone, and returned. The maximalist end of the ozone wellness spectrum, heavily marketed to biohackers.
 
@@ -5128,7 +5128,7 @@ If you insist: licensed physician facility with real extracorporeal-circuit expe
 ---
 
 # Egg Freezing in Thailand — Cost & Where
-URL: https://defiant.to/procedures/egg-freezing/
+URL: https://nanobotco.github.io/defiant/procedures/egg-freezing/
 
 Oocyte cryopreservation for single women is legal and available in Thailand — one of the cleaner legal paths in Thai fertility law. Annual storage runs a few hundred dollars, not a few thousand.
 
@@ -5159,7 +5159,7 @@ Future use of frozen eggs in Thailand falls under the marriage requirement — m
 ---
 
 # Executive Health Check-Ups in Thailand — Cost & Where
-URL: https://defiant.to/procedures/executive-health-check-ups/
+URL: https://nanobotco.github.io/defiant/procedures/executive-health-check-ups/
 
 The famous Thai hospital checkup: a tiered menu (labs, imaging, cardiac stress, scopes at the upper tiers), all results same-week with a physician sit-down. It's the lowest-friction first date with Thai healthcare — fly in skeptical, fly out with a binder of data and change for the money a US colonoscopy costs.
 
@@ -5192,7 +5192,7 @@ We map your age, history and risk factors to the right panel and cut the upsells
 ---
 
 # Exosome Therapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/exosome-therapy/
+URL: https://nanobotco.github.io/defiant/procedures/exosome-therapy/
 
 Cell-free vesicles harvested from stem-cell cultures, sold as the next generation of regenerative medicine — for skin, joints, hair, and increasingly for everything, which is the tell.
 
@@ -5221,7 +5221,7 @@ We treat exosomes like we treat any frontier: slowly, at regulated facilities, w
 ---
 
 # Facelift in Thailand — Cost & Where
-URL: https://defiant.to/procedures/facelift/
+URL: https://nanobotco.github.io/defiant/procedures/facelift/
 
 Deep-plane and SMAS facelifts by surgeons who do them daily. Recovery in a quiet Thai hotel beats recovery while hiding from your coworkers.
 
@@ -5284,7 +5284,7 @@ Plenty. **HIFU** (ultrasound tightening), **PDO thread lifts**, and **skin boost
 ---
 
 # Facial Feminization Surgery (FFS) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/facial-feminization-surgery-ffs/
+URL: https://nanobotco.github.io/defiant/procedures/facial-feminization-surgery-ffs/
 
 Forehead, jaw, tracheal shave, rhinoplasty — staged or combined — from teams with some of the deepest FFS caseloads anywhere. US quotes for equivalent staged work regularly cross six figures; Bangkok's don't.
 
@@ -5314,7 +5314,7 @@ FFS planning runs on CT imaging and surgeon aesthetics — video consult + imagi
 ---
 
 # Full Body MRI in Thailand — Cost & Where
-URL: https://defiant.to/procedures/full-body-mri/
+URL: https://nanobotco.github.io/defiant/procedures/full-body-mri/
 
 The Prenuvo-style whole-body screening MRI, at a Thai hospital price instead of a venture-funded one. Genuinely good at finding things early; also genuinely good at finding harmless things that will haunt your anxiety.
 
@@ -5345,7 +5345,7 @@ The incidentaloma problem is real: before you scan, decide with us who will foll
 ---
 
 # Gallbladder Removal (Cholecystectomy) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/gallbladder-removal-cholecystectomy/
+URL: https://nanobotco.github.io/defiant/procedures/gallbladder-removal-cholecystectomy/
 
 Laparoscopic gallbladder removal — one of the most standardized operations in existence, priced accordingly here and mysteriously not in the US.
 
@@ -5376,7 +5376,7 @@ If you're having active attacks, don't wait for a flight window that suits the f
 ---
 
 # Gastric Band Surgery in Thailand — Cost & Where
-URL: https://defiant.to/procedures/gastric-band-surgery/
+URL: https://nanobotco.github.io/defiant/procedures/gastric-band-surgery/
 
 Straight up: banding has fallen out of favor globally (revision and erosion rates); most centers now recommend sleeve or bypass. We list it because it's still asked for, and band *removal/revision* is its own growing category.
 
@@ -5405,7 +5405,7 @@ If you have an old band causing trouble, revision surgery here costs less than t
 ---
 
 # Gastric Bypass Surgery in Thailand — Cost & Where
-URL: https://defiant.to/procedures/gastric-bypass-surgery/
+URL: https://nanobotco.github.io/defiant/procedures/gastric-bypass-surgery/
 
 Roux-en-Y bypass at high-volume bariatric units with multidisciplinary teams (surgeon, dietitian, endocrinologist). US insurers demand months of documented 'supervised diet' before approving; Thailand demands a workup and a date.
 
@@ -5436,7 +5436,7 @@ Lifelong supplement protocol and follow-up labs — we make sure the aftercare p
 ---
 
 # Genetic Testing in Thailand — Cost & Where
-URL: https://defiant.to/procedures/genetic-testing/
+URL: https://nanobotco.github.io/defiant/procedures/genetic-testing/
 
 Hereditary cancer panels (BRCA and friends), cardiac risk panels, carrier screening, and pharmacogenomics — which drugs your liver actually metabolizes — at Thai lab prices with physician counseling attached.
 
@@ -5467,7 +5467,7 @@ Actionable beats interesting: we steer toward panels with medical consequences a
 ---
 
 # Glutathione Whitening IVs in Thailand — Cost & Where
-URL: https://defiant.to/procedures/glutathione-whitening-ivs/
+URL: https://nanobotco.github.io/defiant/procedures/glutathione-whitening-ivs/
 
 The master-antioxidant drip, ubiquitous in Thai beauty clinics — marketed for skin brightening and general glow, priced like a coffee habit rather than a procedure.
 
@@ -5496,7 +5496,7 @@ No judgment on the goal — it's a huge, normal part of the beauty landscape her
 ---
 
 # Hair Transplant in Thailand — Cost & Where
-URL: https://defiant.to/procedures/hair-transplant/
+URL: https://nanobotco.github.io/defiant/procedures/hair-transplant/
 
 FUE and DHI by the graft, at per-graft prices a third of US rates. Bangkok competes with Istanbul on price while being a far better place to spend the week.
 
@@ -5526,7 +5526,7 @@ Quote should state technique, graft count, and who actually does the extraction 
 ---
 
 # Heart Bypass Surgery (CABG) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/heart-bypass-surgery-cabg/
+URL: https://nanobotco.github.io/defiant/procedures/heart-bypass-surgery-cabg/
 
 Coronary artery bypass grafting at dedicated cardiac institutes — Bangkok Hospital's Heart Institute and Bumrungrad's cardiac center run volumes comparable to major US programs, with published outcome data on request. This is the procedure where the 80% saving stops being abstract and becomes a retirement you still get to have.
 
@@ -5558,7 +5558,7 @@ Cardiac work is where you bring the full file: angiogram, echo, med list. We coo
 ---
 
 # Heart Valve Replacement in Thailand — Cost & Where
-URL: https://defiant.to/procedures/heart-valve-replacement/
+URL: https://nanobotco.github.io/defiant/procedures/heart-valve-replacement/
 
 Open and transcatheter (TAVI/TAVR) valve programs with US- and EU-trained interventional teams. TAVI availability at Thai flagships has grown fast — often with shorter waits than the US pre-authorization gauntlet.
 
@@ -5589,7 +5589,7 @@ Mechanical vs tissue valve is a lifestyle decision (anticoagulation forever vs r
 ---
 
 # Hernia Repair in Thailand — Cost & Where
-URL: https://defiant.to/procedures/hernia-repair/
+URL: https://nanobotco.github.io/defiant/procedures/hernia-repair/
 
 Inguinal/umbilical/incisional repair, open or laparoscopic, mesh brands identical to US ORs. A tidy fly-in procedure with fast recovery.
 
@@ -5620,7 +5620,7 @@ No heavy lifting for weeks after — the beach part of the recovery plan writes 
 ---
 
 # Hip Replacement in Thailand — Cost & Where
-URL: https://defiant.to/procedures/hip-replacement/
+URL: https://nanobotco.github.io/defiant/procedures/hip-replacement/
 
 Total hip arthroplasty is the single most classic medical-tourism procedure: mature technique, predictable recovery, and a US price tag that has nothing to do with the cost of the implant. Thai private hospitals run high-volume joint centers with the same implant brands used in the US (Zimmer Biomet, Stryker, DePuy), and physical therapy is included in most packages rather than billed as a surprise.
 
@@ -5649,7 +5649,7 @@ Total hip arthroplasty is the single most classic medical-tourism procedure: mat
 ---
 
 # Hyperbaric Oxygen Therapy (HBOT) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/hyperbaric-oxygen-therapy-hbot/
+URL: https://nanobotco.github.io/defiant/procedures/hyperbaric-oxygen-therapy-hbot/
 
 An hour or two at pressure breathing pure oxygen — hospital hard chambers here, plus a growing wellness-clinic scene. Divers know it as the bends fix; the longevity crowd knows it as the current darling.
 
@@ -5683,7 +5683,7 @@ Medical indication → hospital chamber, always. Wellness protocol → we'll boo
 ---
 
 # ICL (Implantable Collamer Lens) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/icl-implantable-collamer-lens/
+URL: https://nanobotco.github.io/defiant/procedures/icl-implantable-collamer-lens/
 
 The vision-correction option for people LASIK can't help — high myopia, thin corneas, dry eyes. A soft lens sits behind the iris; nothing is cut from the cornea, and it's reversible.
 
@@ -5714,7 +5714,7 @@ ICL lives or dies on lens sizing and vault measurement — a specialist eye hosp
 ---
 
 # ICSI (Intracytoplasmic Sperm Injection) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/icsi-intracytoplasmic-sperm-injection/
+URL: https://nanobotco.github.io/defiant/procedures/icsi-intracytoplasmic-sperm-injection/
 
 Standard add-on for male-factor infertility; Thai institutes frequently bundle it where US clinics line-item it.
 
@@ -5745,7 +5745,7 @@ Same legal frame as IVF — married heterosexual couples, certificate required.
 ---
 
 # Cancer Immunotherapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/immunotherapy/
+URL: https://nanobotco.github.io/defiant/procedures/immunotherapy/
 
 Checkpoint inhibitors (pembrolizumab, nivolumab and peers) and targeted immuno-oncology, delivered at internationally accredited cancer centers — the same molecules, at a fraction of the US list price, with the drug cost itself the difference.
 
@@ -5776,7 +5776,7 @@ Immunotherapy suits some cancers and not others — bring your pathology and bio
 ---
 
 # In Vitro Fertilization (IVF) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/in-vitro-fertilization-ivf/
+URL: https://nanobotco.github.io/defiant/procedures/in-vitro-fertilization-ivf/
 
 Dedicated IVF institutes with published lab standards and genetic testing (PGT-A) in-house. Straight talk on Thai law: IVF here is available to legally married heterosexual couples — bring your marriage certificate; sex selection is prohibited. If that law excludes your family, tell us — routing patients to the right jurisdiction is exactly the kind of logistics we exist for.
 
@@ -5808,7 +5808,7 @@ Thai law (2015 ART Act) is strict and enforced.
 ---
 
 # IUI (Intrauterine Insemination) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/intrauterine-insemination-iui/
+URL: https://nanobotco.github.io/defiant/procedures/intrauterine-insemination-iui/
 
 The gentler, lower-cost first step before IVF — timed insemination with light monitoring, at fertility centers that run IVF at world-class volume, so you're in expert hands even for the simple version.
 
@@ -5840,7 +5840,7 @@ IUI success rates are modest per cycle — it's the right, affordable place to s
 ---
 
 # IV Laser Therapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/iv-laser-therapy/
+URL: https://nanobotco.github.io/defiant/procedures/iv-laser-therapy/
 
 Intravenous laser blood irradiation — a fiber-optic thread lighting up your bloodstream, descended from Soviet-era laser medicine and alive in Asian integrative clinics.
 
@@ -5869,7 +5869,7 @@ Low-harm at licensed clinics, low-evidence everywhere. We file it with bioresona
 ---
 
 # Kidney Transplant in Thailand — Cost & Where
-URL: https://defiant.to/procedures/kidney-transplant/
+URL: https://nanobotco.github.io/defiant/procedures/kidney-transplant/
 
 reality check: **kidney transplantation in Thailand is effectively closed to foreigners.** Deceased-donor organs are allocated to Thai nationals through the Red Cross system, and living-donor programs require documented close kinship reviewed by committee — a bar a visiting patient cannot clear. Anyone selling you a Thai kidney is selling you organ trafficking, full stop.
 
@@ -5892,7 +5892,7 @@ Where the real map points instead: living-related-donor programs in India, Turke
 ---
 
 # Knee Replacement in Thailand — Cost & Where
-URL: https://defiant.to/procedures/knee-replacement/
+URL: https://nanobotco.github.io/defiant/procedures/knee-replacement/
 
 Total and partial knee replacement at Thai joint centers, including robotic-assisted options at the Bangkok flagships. Packages typically bundle the implant, theatre, 5–7 hospital nights and initial physiotherapy — the line items US hospitals unbundle.
 
@@ -5925,7 +5925,7 @@ Bilateral (both knees, one trip) is commonly offered; it saves a second airfare 
 ---
 
 # LASIK Eye Surgery in Thailand — Cost & Where
-URL: https://defiant.to/procedures/lasik-eye-surgery/
+URL: https://nanobotco.github.io/defiant/procedures/lasik-eye-surgery/
 
 LASIK/PRK/SMILE at dedicated eye hospitals with the current-generation lasers. Screening is the product — a good center disqualifies bad corneas; that's what you're paying for.
 
@@ -5955,7 +5955,7 @@ No diving or pools for a couple of weeks — schedule the beach leg of the trip 
 ---
 
 # Liposuction in Thailand — Cost & Where
-URL: https://defiant.to/procedures/liposuction/
+URL: https://nanobotco.github.io/defiant/procedures/liposuction/
 
 Tumescent and VASER lipo, priced per area in a way you can actually read. Multiple areas in one session is routine and quoted upfront.
 
@@ -5987,7 +5987,7 @@ Lipo is contouring, not weight loss — if a clinic anywhere sells it as weight 
 ---
 
 # Liver Transplant in Thailand — Cost & Where
-URL: https://defiant.to/procedures/liver-transplant/
+URL: https://nanobotco.github.io/defiant/procedures/liver-transplant/
 
 Another reality check: **deceased-donor organ transplantation in Thailand is restricted to Thai nationals** — the Red Cross allocation system does not list foreigners, and reputable hospitals follow it. Transplant-tourism brokers promising Thai livers are lying to desperate people; we refuse to.
 
@@ -6010,7 +6010,7 @@ Living-donor programs for foreigners exist in other countries with real legal fr
 ---
 
 # NAD+ IV Therapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/nad-iv-therapy/
+URL: https://nanobotco.github.io/defiant/procedures/nad-iv-therapy/
 
 The longevity scene's favorite drip, at Thai wellness-clinic prices. Slow infusion, flushing is normal, evangelists are plentiful.
 
@@ -6039,7 +6039,7 @@ If you want it, licensed physician clinic only, and we'll price the oral-precurs
 ---
 
 # NK Cell Therapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/nk-cell-therapy/
+URL: https://nanobotco.github.io/defiant/procedures/nk-cell-therapy/
 
 Your natural-killer cells drawn, expanded in a lab for weeks, and reinfused — sold across Asia's longevity clinics as immune optimization, and studied seriously in oncology elsewhere.
 
@@ -6068,7 +6068,7 @@ Cancer patients: this conversation belongs with your oncologist and a tumor boar
 ---
 
 # Orthodontics (Braces, Aligners) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/orthodontics-braces-aligners/
+URL: https://nanobotco.github.io/defiant/procedures/orthodontics-braces-aligners/
 
 Braces and clear aligners priced for people who live here or visit often. For pure fly-in patients, aligner systems with remote monitoring can work — straight answer: orthodontics is the weakest fit for one-trip tourism on this whole list.
 
@@ -6098,7 +6098,7 @@ If you're relocating anyway (see the expat services side of the house), this is 
 ---
 
 # Ozone Autohemotherapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/ozone-autohemotherapy/
+URL: https://nanobotco.github.io/defiant/procedures/ozone-autohemotherapy/
 
 The smaller sibling: a syringe of your blood mixed with ozone and reinfused. A fixture of integrative clinics from Bangkok to Berlin.
 
@@ -6127,7 +6127,7 @@ Same rule as all ozone: licensed clinic, sterile circuit, straight grade — and
 ---
 
 # Pacemaker Implantation in Thailand — Cost & Where
-URL: https://defiant.to/procedures/pacemaker-implantation/
+URL: https://nanobotco.github.io/defiant/procedures/pacemaker-implantation/
 
 Single/dual-chamber and leadless devices from the usual global makers (Medtronic, Abbott, Boston Scientific). Device cost is the bulk of the bill; Thai hospitals quote it as one number instead of a claims mystery.
 
@@ -6158,7 +6158,7 @@ Plan device follow-up before you fly home — most US cardiology practices will 
 ---
 
 # Peptide Injections in Thailand — Cost & Where
-URL: https://defiant.to/procedures/peptide-injections/
+URL: https://nanobotco.github.io/defiant/procedures/peptide-injections/
 
 BPC-157, TB-500, GHK-Cu and the rest of the recovery-peptide alphabet — physician-supervised at Thai longevity clinics rather than mystery vials from the internet.
 
@@ -6187,7 +6187,7 @@ Supervised or nothing. If your protocol came from a podcast, bring it to the int
 ---
 
 # Phalloplasty in Thailand — Cost & Where
-URL: https://defiant.to/procedures/phalloplasty/
+URL: https://nanobotco.github.io/defiant/procedures/phalloplasty/
 
 Fewer surgeons worldwide do phalloplasty well than any other procedure on this site. Thailand has credible programs (radial forearm and ALT flap techniques), typically staged. We will name the straight trade-offs per surgeon rather than pretend a directory page can decide this for you.
 
@@ -6217,7 +6217,7 @@ Multi-stage by design (typically 2–3 trips). Complication management planning 
 ---
 
 # Placenta Extract Infusions in Thailand — Cost & Where
-URL: https://defiant.to/procedures/placenta-extract-infusions/
+URL: https://nanobotco.github.io/defiant/procedures/placenta-extract-infusions/
 
 Laennec-style human-placenta hydrolysate injections — a Japanese longevity-clinic staple that migrated to Thai anti-aging medicine. Popular for skin, fatigue and menopause claims.
 
@@ -6246,7 +6246,7 @@ We only book licensed clinics using registered pharmaceutical product, and we sa
 ---
 
 # Radiation Therapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/radiation-therapy/
+URL: https://nanobotco.github.io/defiant/procedures/radiation-therapy/
 
 IMRT/VMAT and stereotactic programs on current linear accelerators. The multi-week daily schedule makes this a temporary relocation — which is exactly the logistics problem a Chiang Mai/Bangkok concierge exists to solve: housing near the machine, not near the brochure.
 
@@ -6277,7 +6277,7 @@ Proton therapy exists in Thailand (Chulabhorn, Bangkok) with limited slots — a
 ---
 
 # Retinal Surgery in Thailand — Cost & Where
-URL: https://defiant.to/procedures/retinal-surgery/
+URL: https://nanobotco.github.io/defiant/procedures/retinal-surgery/
 
 Vitrectomy and retinal-detachment repair at subspecialty centers. Detachment is urgent — this page is for planned vitreoretinal work, not emergencies.
 
@@ -6307,7 +6307,7 @@ If your repair used a gas bubble, flying before clearance can blind the eye. The
 ---
 
 # Rhinoplasty (Nose Surgery) in Thailand — Cost & Where
-URL: https://defiant.to/procedures/rhinoplasty-nose-surgery/
+URL: https://nanobotco.github.io/defiant/procedures/rhinoplasty-nose-surgery/
 
 Cosmetic and functional (septum) rhinoplasty. Thai surgeons are regionally famous for both augmentation and reduction work — bring reference photos, leave with a plan, not a template nose.
 
@@ -6338,7 +6338,7 @@ Revision rhinoplasty is a different, harder animal — say so at intake and we s
 ---
 
 # Root Canal Treatment in Thailand — Cost & Where
-URL: https://defiant.to/procedures/root-canal-treatment/
+URL: https://nanobotco.github.io/defiant/procedures/root-canal-treatment/
 
 Endodontics by specialists with microscopes, at prices that don't make extraction tempting for the wrong reason.
 
@@ -6368,7 +6368,7 @@ Usually needs a crown after — budget both lines from the start.
 ---
 
 # Shockwave Therapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/shockwave-therapy/
+URL: https://nanobotco.github.io/defiant/procedures/shockwave-therapy/
 
 Extracorporeal shockwave for stubborn tendons — plantar fasciitis, tennis elbow, calcific shoulder — at sports-medicine departments and physio clinics across Thailand.
 
@@ -6402,7 +6402,7 @@ One of the quiet wins of this list: cheap here, evidence-backed for the right di
 ---
 
 # Shoulder Replacement in Thailand — Cost & Where
-URL: https://defiant.to/procedures/shoulder-replacement/
+URL: https://nanobotco.github.io/defiant/procedures/shoulder-replacement/
 
 Anatomic and reverse shoulder arthroplasty for arthritis and irreparable cuff tears. Fewer surgeons do this well than hips and knees — anywhere on earth — so the shortlist matters more than the discount.
 
@@ -6433,7 +6433,7 @@ Physical therapy continues months after you fly home; we help line up the hand-o
 ---
 
 # Sleeve Gastrectomy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/sleeve-gastrectomy/
+URL: https://nanobotco.github.io/defiant/procedures/sleeve-gastrectomy/
 
 The most-performed bariatric operation worldwide, packaged cleanly at Thai centers. Quotes include the stapler and consumables — the line items that ambush US bills.
 
@@ -6464,7 +6464,7 @@ BMI and comorbidity criteria still apply; a center that operates on anyone with 
 ---
 
 # Spinal Surgery in Thailand — Cost & Where
-URL: https://defiant.to/procedures/spinal-surgery/
+URL: https://nanobotco.github.io/defiant/procedures/spinal-surgery/
 
 Fusion, decompression, and disc replacement at spine centers with intraoperative navigation and neuromonitoring. The US price spread on spine work is the widest in medicine; the Thai spread is merely wide. Second opinions are cheap here — get one before anyone fuses anything.
 
@@ -6496,7 +6496,7 @@ We insist on imaging review before travel: send your MRI, get the surgical plan 
 ---
 
 # Stem Cell Therapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/stem-cell-therapy/
+URL: https://nanobotco.github.io/defiant/procedures/stem-cell-therapy/
 
 The flagship of the 'therapies the FDA sits on' category — handled with adult supervision. Thailand permits certain regenerative treatments (orthopedic PRP/BMAC, some mesenchymal stem-cell protocols) under Ministry of Public Health regulation, alongside a gray market of miracle-cure clinics we will not send you to.
 
@@ -6530,7 +6530,7 @@ Our rule: regulated facility, named physician, published protocol, no cure-words
 ---
 
 # Surgical Oncology in Thailand — Cost & Where
-URL: https://defiant.to/procedures/surgical-oncology/
+URL: https://nanobotco.github.io/defiant/procedures/surgical-oncology/
 
 Tumor resections with modern staging, frozen-section pathology, and MDT (tumor board) review. For solid tumors where surgery is the curative step, the US pricing delta is life-changing money at exactly the moment you need it least.
 
@@ -6561,7 +6561,7 @@ We coordinate pathology slide/block transfer both directions — continuity of t
 ---
 
 # Surrogacy Services in Thailand — Cost & Where
-URL: https://defiant.to/procedures/surrogacy-services/
+URL: https://nanobotco.github.io/defiant/procedures/surrogacy-services/
 
 reality check, no sugar: **commercial surrogacy for foreigners is banned in Thailand** (2015 ART Act, passed after the Baby Gammy scandal).
 
@@ -6584,7 +6584,7 @@ Where clients go instead: US, Canada, Georgia, Mexico (each with its own law). B
 ---
 
 # Therapeutic Plasma Exchange in Thailand — Cost & Where
-URL: https://defiant.to/procedures/therapeutic-plasma-exchange/
+URL: https://nanobotco.github.io/defiant/procedures/therapeutic-plasma-exchange/
 
 Apheresis: plasma out, replacement in. A real hospital procedure for neurological and autoimmune disease — recently rebranded by the longevity world as 'plasma dilution' anti-aging.
 
@@ -6619,7 +6619,7 @@ We book TPE at hospital apheresis units only — this is not a strip-mall proced
 ---
 
 # Top Surgery in Thailand — Cost & Where
-URL: https://defiant.to/procedures/top-surgery/
+URL: https://nanobotco.github.io/defiant/procedures/top-surgery/
 
 Masculinizing chest surgery and feminizing augmentation by surgeons for whom this is a primary practice, not an occasional sideline. Thailand has been doing gender-affirming surgery at volume for four decades — while US access gets legislated backwards, Bangkok's ORs just keep running.
 
@@ -6650,7 +6650,7 @@ Standard requirements: hormone/readiness letters per WPATH-style criteria; we te
 ---
 
 # Vaginoplasty in Thailand — Cost & Where
-URL: https://defiant.to/procedures/vaginoplasty/
+URL: https://nanobotco.github.io/defiant/procedures/vaginoplasty/
 
 Thailand is, without hyperbole, the global center of gravity for this surgery — techniques used worldwide were developed and refined here. Waitlists at the famous clinics are real (often 1–2 years); mid-tier hospital programs run shorter. The in-country recovery is long and structured: this is the procedure where concierge support earns its keep.
 
@@ -6682,7 +6682,7 @@ Requirements are strict and non-negotiable at reputable clinics (age, RLE, lette
 ---
 
 # Vagus Nerve Stimulation in Thailand — Cost & Where
-URL: https://defiant.to/procedures/vagus-nerve-stimulation/
+URL: https://nanobotco.github.io/defiant/procedures/vagus-nerve-stimulation/
 
 Two different products wearing one name: implanted VNS — real neurosurgery for drug-resistant epilepsy and depression — and ear-clip taVNS wearables sold for stress and sleep.
 
@@ -6716,7 +6716,7 @@ Implant candidates get the full neurology workup pathway; gadget-curious clients
 ---
 
 # Varicose Vein Treatment in Thailand — Cost & Where
-URL: https://defiant.to/procedures/varicose-vein-treatment/
+URL: https://nanobotco.github.io/defiant/procedures/varicose-vein-treatment/
 
 Endovenous laser (EVLA) and radiofrequency ablation, foam sclerotherapy, and phlebectomy — walk-in, walk-out vein work that US insurers love to call "cosmetic" and refuse to cover.
 
@@ -6748,7 +6748,7 @@ Get a duplex ultrasound map first — it tells you whether it's a quick ablation
 ---
 
 # Veneers in Thailand — Cost & Where
-URL: https://defiant.to/procedures/veneers/
+URL: https://nanobotco.github.io/defiant/procedures/veneers/
 
 Porcelain (e.max, zirconia) veneers with in-house labs — the reason 'Thailand smile makeover' is a whole genre. A full visible-arch case still costs less than four teeth at home.
 
@@ -6778,7 +6778,7 @@ Good veneers require grinding healthy enamel — irreversible. a straight dentis
 ---
 
 # Whole-Body Cryotherapy in Thailand — Cost & Where
-URL: https://defiant.to/procedures/whole-body-cryotherapy/
+URL: https://nanobotco.github.io/defiant/procedures/whole-body-cryotherapy/
 
 Three minutes at −110°C in your underwear and gloves. Athletes swear by it, Instagram loves it, and in Thailand it costs less than the smoothie after.
 
@@ -6807,7 +6807,7 @@ Fun, cheap, probably mildly useful, definitely not medicine. We file it under re
 ---
 
 # How You're Protected — Reviews, Recourse, and Why the Care Is Good
-URL: https://defiant.to/recourse/
+URL: https://nanobotco.github.io/defiant/recourse/
 
 # How You're Protected
 
@@ -7029,7 +7029,7 @@ courtroom.
 ---
 
 # Convalescence in Chiang Mai — The Gap Between Discharge and Well
-URL: https://defiant.to/recovery/
+URL: https://nanobotco.github.io/defiant/recovery/
 
 # Recovering in Chiang Mai — the gap between discharge and well
 
@@ -7120,7 +7120,7 @@ the discharge-to-well plan around your case.
 ---
 
 # Active Retirement in Chiang Mai — A Life, Not a Facility
-URL: https://defiant.to/retirement/
+URL: https://nanobotco.github.io/defiant/retirement/
 
 # Active retirement in Chiang Mai — a life, not a facility
 
@@ -7219,7 +7219,7 @@ timeline and we'll tell you which paths are actually open.
 ---
 
 # Senior Living & Dementia Care in Chiang Mai — Full Care at a Fraction of the Cost
-URL: https://defiant.to/senior-living/
+URL: https://nanobotco.github.io/defiant/senior-living/
 
 # Senior living in Chiang Mai — the option nobody told your family about
 
@@ -7329,7 +7329,7 @@ facility — confirm everything on site before placing a family member.*
 ---
 
 # The Defiant Dispatch — get on the list
-URL: https://defiant.to/subscribe/
+URL: https://nanobotco.github.io/defiant/subscribe/
 
 # The Defiant Dispatch
 
@@ -7350,7 +7350,7 @@ whole deal. ✊
 ---
 
 # Terms of Service
-URL: https://defiant.to/terms/
+URL: https://nanobotco.github.io/defiant/terms/
 
 # Terms of Service
 
@@ -7444,7 +7444,7 @@ Website: [https://defiant.to](https://defiant.to)
 ---
 
 # Defiant — ร่วมงานกับเฮา (คลินิก · ล่าม · โอกาสสร้างรายได้)
-URL: https://defiant.to/th/
+URL: https://nanobotco.github.io/defiant/th/
 
 # ยินดีต้อนรับเจ้า 🙏
 
@@ -7509,7 +7509,7 @@ Thai clinics and hospitals. Three ways to work with us:
 ---
 
 # We're Hiring Translators — Thai ↔ English
-URL: https://defiant.to/translators/
+URL: https://nanobotco.github.io/defiant/translators/
 
 # We're hiring translators
 
@@ -7553,7 +7553,7 @@ Tell us who you are, your language background, and any medical/clinical experien
 ---
 
 # Your VA Benefits Work in Thailand — the Foreign Medical Program (FMP)
-URL: https://defiant.to/va-fmp/
+URL: https://nanobotco.github.io/defiant/va-fmp/
 
 # Your VA benefits work in Thailand
 

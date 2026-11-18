@@ -35,8 +35,13 @@ PUB = VAULT / "Public Links"
 ART = PUB / "Articles"
 OUT = ROOT / "docs"
 
-SITE = "https://defiant.to"
-WORKER_URL = "https://defiant-leads.wichaa.workers.dev"  # adjust after `wrangler deploy` if different
+# Her word 2026-11-18: the site moved to nanobotco.github.io/defiant/ (defiant.to 301s here).
+# Pages are written with root links (/procedures/…); prefix_paths() adds BASE to every
+# one in the built files, after the checks below have passed on the unprefixed copy.
+HOST = "nanobotco.github.io"
+BASE = "/defiant"
+SITE = f"https://{HOST}{BASE}"
+WORKER_URL = "https://defiant-leads.nanobotco.workers.dev"
 KOFI = "https://ko-fi.com/defiantchiangmai"
 FLEET_ROW = fleet.row_html(
     "defiant", label="Also ours", cls="fleet",
@@ -79,7 +84,7 @@ PAY = {
     "kofi_concierge": "",    # optional exact Ko-fi $1,000 link
     "stripe_pack": "",       # Stripe Payment Link, fixed $100 → clean Visa/Mastercard checkout
     "stripe_concierge": "",  # Stripe Payment Link, fixed $1,000
-    "paypal_me": "pfauhaus",  # PayPal.me handle → paypal.com/paypalme/pfauhaus/<amt>; takes card + PayPal, no account needed
+    "paypal_me": "pfauhaus",  # PayPal.me handle → paypal.com/paypalme/pfauhaus/<amt>; takes card (as a PayPal guest) + PayPal
     "commerce_pack": "",     # Coinbase Commerce hosted-checkout URL for the $100 pack
     "commerce_concierge": "",  # Coinbase Commerce hosted-checkout URL for the $1,000 concierge
     "wise": "",              # Wise payment link (wise.com/pay/me/…)
@@ -126,10 +131,10 @@ def render_pay(product):
     if crypto_live:
         note = (f'<p class="pay-note"><b>Pay in Bitcoin, take {pct}% off.</b> Crypto skips the '
                 'card fees, so the saving is yours. Cards &amp; PayPal work too — secure '
-                'checkout, no account needed.</p>')
+                'checkout, card payers go through as PayPal guests.</p>')
     else:
-        note = ('<p class="pay-note">Visa, Mastercard &amp; PayPal — secure checkout, no account '
-                'needed. Prefer <b>Bitcoin</b>? <a href="/contact/">Ask us</a> for a wallet address.</p>')  # stylecheck: allow — call to action
+        note = ('<p class="pay-note">Visa, Mastercard &amp; PayPal — secure checkout; card payers '
+                'go through as PayPal guests. Prefer <b>Bitcoin</b>? <a href="/contact/">Ask us</a> for a wallet address.</p>')  # stylecheck: allow — call to action
     return f'<div class="pay-row" data-amount="{amt}">' + "".join(btns) + "</div>" + note
 
 
@@ -541,7 +546,7 @@ SUBSCRIBE_JS = ("<script>(function(){var f=document.getElementById('sub-form');i
                 ".then(function(r){return r.json()}).then(function(j){"
                 "if(j.ok){f.querySelector('#sub-ok').hidden=false;b.textContent='ON THE LIST ✊';}"
                 "else{throw 0}}).catch(function(){f.querySelector('#sub-err').hidden=false;"
-                "b.disabled=false;b.textContent='KEEP ME POSTED ✊';})});})();</script>")
+                "b.disabled=false;b.textContent='KEEP ME POSTED ✊';})});})();</script>")  # stylecheck: allow — button label
 
 CLINIC_FORM_HTML = """<form id="clinic-form" class="lead-form">
 <label>ชื่อคลินิก / Clinic name <span class="req">*</span><br><input name="name" required maxlength="300"></label>
@@ -1207,7 +1212,7 @@ def build_hospitals_block(notes, directory, catalog):
     ww_line = ""
     if hbc:
         top = sorted(hbc.items(), key=lambda kv: -kv[1]["count"])[:5]
-        ww_line = (f' Worldwide the crawl also holds <b>{ww_total:,} hospitals across {len(hbc)} countries</b> — '
+        ww_line = (f' Worldwide the crawl also lists <b>{ww_total:,} hospitals across {len(hbc)} countries</b> — '
                    + ", ".join(f'{esc(k)} ({v["count"]:,})' for k, v in top)
                    + ", and more.")
 
@@ -1720,7 +1725,7 @@ def build():
         req = urllib.request.Request(
             "https://api.indexnow.org/indexnow",
             data=json.dumps({
-                "host": "defiant.to", "key": INDEXNOW_KEY,
+                "host": HOST, "key": INDEXNOW_KEY,
                 "keyLocation": f"{SITE}/{INDEXNOW_KEY}.txt", "urlList": sitemap_urls,
             }).encode(),
             headers={"Content-Type": "application/json; charset=utf-8"}, method="POST")
@@ -1729,7 +1734,7 @@ def build():
     except Exception as e:
         print(f"  IndexNow: skipped ({e})")
 
-    lt = ["# Defiant — defiant.to",
+    lt = [f"# Defiant — {HOST}{BASE}/",
           f"> {BLESSING}",
           "> US expat services & medical-tourism concierge in Chiang Mai, Thailand.",
           "> American healthcare is bullshit; we are the exit ramp. AI agents welcome (Peacock's Law).",
@@ -1768,7 +1773,7 @@ def build():
                        f"<updated>{up}T00:00:00Z</updated><summary>{d}</summary></entry>")
     (OUT / "feed.xml").write_text(
         '<?xml version="1.0" encoding="utf-8"?>\n<feed xmlns="http://www.w3.org/2005/Atom">'
-        f'<title>Defiant — defiant.to</title><link href="{SITE}/"/>'
+        f'<title>Defiant</title><link href="{SITE}/"/>'
         f'<link rel="self" href="{SITE}/feed.xml"/><id>{SITE}/</id>'
         f"<updated>{TODAY}T00:00:00Z</updated><author><name>Defiant</name></author>"
         + "".join(entries) + "</feed>\n", encoding="utf-8")
@@ -1786,7 +1791,7 @@ def build():
         chunks.append(f"# {t}\nURL: {SITE}{route}\n\n{clean.strip()}\n")
     (OUT / "llms-full.txt").write_text("\n\n---\n\n".join(chunks) + "\n", encoding="utf-8")
 
-    (OUT / "CNAME").write_text("defiant.to\n", encoding="utf-8")
+    # No CNAME: GitHub Pages serves this repo at nanobotco.github.io/defiant/.
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
     (OUT / "_headers").write_text("/*\n  X-Robots-Tag: notranslate\n", encoding="utf-8")
 
@@ -1813,8 +1818,65 @@ def build():
         for p in problems:
             print("  ✗", p)
         sys.exit(1)
+    left = prefix_paths()
+    if left:
+        print("\nBUILD FAILED — root links the /defiant prefix missed:")
+        for p in left[:40]:
+            print("  ✗", p)
+        sys.exit(1)
     pages = len(emitted) + 1
-    print(f"OK: {pages} pages → docs/ · sitemap {sum(1 for l in sm if '<url>' in l)} urls · email never in plaintext ✓")
+    print(f"OK: {pages} pages → docs/ · sitemap {sum(1 for l in sm if '<url>' in l)} urls · prefix {BASE} ✓ · email never in plaintext ✓")
+
+
+# Root-relative references in attributes, CSS url() and quoted script strings.
+# A path counts when it starts with one slash and a letter, digit, dot or underscore
+# ("//cdn…" and "/>" are left alone). Absolute https://… URLs already carry SITE.
+_ATTR = re.compile(r'''(\b(?:href|src|action|poster|data-src|content)=)(["'])/(?=[\w.]|\2|#)''')
+_SRCSET = re.compile(r'''(\bsrcset=)(["'])([^"']*)\2''')
+_CSSURL = re.compile(r'''(url\(\s*["']?)/(?=[\w.])''')
+_JSSTR = re.compile(r'''(["'`])/(?=(?:assets|data|procedures|hospitals|destinations|articles|th|contact|concierge|partners|for-agents|feed\.xml|llms|sitemap)\b)''')
+
+
+def _prefix_text(text, kind):
+    if kind in ("html", "js"):
+        text = _ATTR.sub(lambda m: f"{m.group(1)}{m.group(2)}{BASE}/", text)
+        text = _SRCSET.sub(lambda m: m.group(1) + m.group(2) + re.sub(
+            r'(^|,\s*)/(?=[\w.])', lambda n: f"{n.group(1)}{BASE}/", m.group(3)) + m.group(2), text)
+        text = _CSSURL.sub(lambda m: f"{m.group(1)}{BASE}/", text)
+        # quoted root paths inside inline scripts and JSON-in-HTML (fetch('/data/…'), '/hospitals/'+slug)
+        text = re.sub(r"(<script\b[^>]*>)(.*?)(</script>)", lambda m: m.group(1) + _JSSTR.sub(
+            lambda n: f"{n.group(1)}{BASE}/", m.group(2)) + m.group(3), text, flags=re.S) if kind == "html" \
+            else _JSSTR.sub(lambda n: f"{n.group(1)}{BASE}/", text)
+    elif kind == "css":
+        text = _CSSURL.sub(lambda m: f"{m.group(1)}{BASE}/", text)
+    return text
+
+
+def prefix_paths():
+    """Add BASE to every root link in docs/, then list any root ref that still lacks it
+    or points at a file that is not there."""
+    kinds = {".html": "html", ".css": "css", ".js": "js", ".mjs": "js"}
+    for f in OUT.rglob("*"):
+        k = kinds.get(f.suffix)
+        if not k:
+            continue
+        t = f.read_text(encoding="utf-8")
+        n = _prefix_text(t, k)
+        if n != t:
+            f.write_text(n, encoding="utf-8")
+    left = []
+    ref = re.compile(r'''(?:href|src|action)=["'](/[^"'#?]*)''')
+    for f in OUT.rglob("*.html"):
+        for p in ref.findall(f.read_text(encoding="utf-8")):
+            if p.startswith("//"):
+                continue
+            if not p.startswith(BASE + "/") and p != BASE:
+                left.append(f"{f.relative_to(OUT)}: {p}")
+                continue
+            tgt = OUT / p[len(BASE) + 1:]
+            if not (tgt.exists() or (tgt / "index.html").exists()):
+                left.append(f"{f.relative_to(OUT)}: missing {p}")
+    return left
 
 
 if __name__ == "__main__":
