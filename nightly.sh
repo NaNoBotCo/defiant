@@ -1,15 +1,15 @@
 #!/bin/zsh
 # Defiant nightly refresh:
 #   crawl OSM facilities → rebuild directory → refresh article data blocks →
-#   cards → build → QA gate → local commit → deploy to Cloudflare Pages.
+#   cards → build → QA gate → commit → publish to GitHub Pages through pr-push.
 # Resilient: if the crawl mirror is down, it still rebuilds from existing data.
-# Git stays LOCAL (standing directive since 2026-08-12) — the deploy lane is
-# cloudflare-mirror/deploy.sh, not a push. Private CRM (partners.db, drafts)
-# is gitignored and never leaves the machine.
+# Since 2026-11-18 (her word) the site is served at nanobotco.github.io/defiant/ from
+# this repo's docs/; defiant.to only 301s there (cloudflare-mirror/defiant-redirect).
+# Private CRM (partners.db, drafts) is gitignored, so pushes leave it out.
 set -o pipefail
 REPO="$HOME/Developer/claude code projects/defiant-site"
-MIRROR="$HOME/Developer/claude code projects/cloudflare-mirror"
 LOG="$HOME/Library/Logs/defiant-nightly.log"
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"   # gh, for pr-push under launchd
 cd "$REPO" || exit 1
 
 echo "───── $(date '+%Y-%m-%d %H:%M') nightly refresh ─────" >> "$LOG"
@@ -27,14 +27,14 @@ else
   git commit -q -m "Nightly refresh $(date '+%Y-%m-%d')
 
 Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>" >> "$LOG" 2>&1
-  echo "  committed locally ✓ (git stays local; Cloudflare is the deploy)" >> "$LOG"
+  echo "  committed ✓" >> "$LOG"
 fi
 
 # The QA gate decides whether tonight's build goes out the door.
 if python3 articles.py qa >> "$LOG" 2>&1; then
-  if /bin/bash "$MIRROR/deploy.sh" defiant >> "$LOG" 2>&1
-  then echo "  deployed ✓ (Cloudflare Pages)" >> "$LOG"
-  else echo "  DEPLOY FAILED" >> "$LOG"; fi
+  if "$HOME/.claude/bin/pr-push" "$REPO" "Nightly refresh $(date '+%Y-%m-%d')" >> "$LOG" 2>&1
+  then echo "  published ✓ (GitHub Pages, nanobotco.github.io/defiant/)" >> "$LOG"
+  else echo "  PUBLISH FAILED (pr-push exit $?)" >> "$LOG"; fi
 else
   echo "  QA gate closed — built + committed, holding the deploy for a human look" >> "$LOG"
 fi

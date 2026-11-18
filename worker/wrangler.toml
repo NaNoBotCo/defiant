@@ -6,4 +6,4 @@ compatibility_date = "2026-07-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "defiant-leads"
-database_id = "b0fd6c34-0901-4805-8a37-90d2a1dac49b"
+database_id = "75f526f6-1a05-407e-9687-eb7fc698bdc5"  # nanobotco account, 2026-11-18 (the b0fd6c34 one sits on the account this Mac cannot reach)

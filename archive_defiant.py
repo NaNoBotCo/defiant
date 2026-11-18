@@ -23,9 +23,9 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-SITE = "https://defiant.to"
+SITE = "https://nanobotco.github.io/defiant"  # moved from defiant.to 2026-11-18
 SITEMAP = f"{SITE}/sitemap.xml"
-UA = "DefiantArchiver/1.0 (+https://defiant.to; archival)"
+UA = "DefiantArchiver/1.0 (+https://nanobotco.github.io/defiant/; archival)"
 LEDGER = Path.home() / "Library" / "Logs" / "defiant-archive.jsonl"
 EXTRAS = [f"{SITE}/robots.txt", f"{SITE}/llms.txt", f"{SITE}/llms-full.txt",
           f"{SITE}/feed.xml", f"{SITE}/sitemap.xml",
