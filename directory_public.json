@@ -5962,7 +5962,7 @@
       }
     },
     "India": {
-      "count": 3687,
+      "count": 3688,
       "cities": {
         "Bengaluru": [
           {
@@ -11874,8 +11874,8 @@
           },
           {
             "name": "Dr. Sathish Kumar Institute Of Child Health and Hospital for Children",
-            "lat": 12.937277,
-            "lon": 80.1390208
+            "lat": 12.9372891,
+            "lon": 80.1390198
           },
           {
             "name": "Dr. Seshiah Diabetes Research Institute and Dr. Balaji Diabetes Care Centre",
@@ -11934,8 +11934,8 @@
           },
           {
             "name": "Dr.Bhats Eye Hospital",
-            "lat": 13.1185204,
-            "lon": 80.1523131
+            "lat": 13.1175413,
+            "lon": 80.1539406
           },
           {
             "name": "Dr.Duraiswami Eye Hospital",
@@ -12121,6 +12121,11 @@
             "name": "Good Shepard hospital",
             "lat": 12.9810842,
             "lon": 80.2343492
+          },
+          {
+            "name": "Goverment dental hospital & collage",
+            "lat": 13.0829605,
+            "lon": 80.281264
           },
           {
             "name": "Government Hospital",
@@ -12534,8 +12539,13 @@
           },
           {
             "name": "K.H.M. Hospital",
-            "lat": 13.0844992,
-            "lon": 80.2130591
+            "lat": 13.129327,
+            "lon": 80.2152624
+          },
+          {
+            "name": "K.H.M.Hospital",
+            "lat": 13.0844424,
+            "lon": 80.2130723
           },
           {
             "name": "K.J. Hospital",
@@ -12859,7 +12869,7 @@
           },
           {
             "name": "MIOT Hospital",
-            "lat": 13.022354,
+            "lat": 13.022338,
             "lon": 80.1863211
           },
           {
@@ -14093,7 +14103,7 @@
             "lon": 80.1810857
           },
           {
-            "name": "Srushti Hospital, Ramapuram",
+            "name": "Srushti Hospital, Kanchipuram",
             "lat": 13.0353484,
             "lon": 80.1822808
           },
@@ -14256,11 +14266,6 @@
             "name": "Taj Hospital",
             "lat": 13.0239396,
             "lon": 80.116819
-          },
-          {
-            "name": "Tamil Nadu Government Dental College & Hospital, Chennai",
-            "lat": 13.084889,
-            "lon": 80.2826483
           },
           {
             "name": "Tamil Nadu Government Multi Super Speciality Hospital",
@@ -29410,8 +29415,8 @@
           },
           {
             "name": "โรงพยาบาล เชียงใหม่เมดิคอลเซ็นเตอร์",
-            "lat": 18.780361,
-            "lon": 98.9884613
+            "lat": 18.7803819,
+            "lon": 98.988465
           },
           {
             "name": "โรงพยาบาลกองบิน 41",
