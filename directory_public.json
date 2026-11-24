@@ -4,7 +4,7 @@
   "categories": {
     "geriatric": {
       "label": "Care homes & elder care",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "name": "Baantai Nursing Clinic",
@@ -35,6 +35,12 @@
           "name_en": "Kanya Nursing Home",
           "lat": 18.7351824,
           "lon": 98.9895664
+        },
+        {
+          "name": "RN Nursing Home",
+          "name_en": "",
+          "lat": 18.7667178,
+          "lon": 98.9972426
         },
         {
           "name": "Sang Nursing Clinic",
@@ -646,7 +652,7 @@
     },
     "pharmacy": {
       "label": "Pharmacies",
-      "count": 616,
+      "count": 617,
       "items": [
         {
           "name": "1988 Pharmacy",
@@ -3457,6 +3463,12 @@
           "lon": 98.3767564
         },
         {
+          "name": "ร้านยา",
+          "name_en": "",
+          "lat": 16.5670072,
+          "lon": 100.6355159
+        },
+        {
           "name": "ร้านยา น้องแฝด",
           "name_en": "",
           "lat": 14.4773953,
@@ -4870,7 +4882,7 @@
           {
             "name": "Méderi Hospital Universitario Mayor",
             "lat": 4.6233213,
-            "lon": -74.0826458
+            "lon": -74.0826462
           },
           {
             "name": "Nueva Eps",
@@ -4929,8 +4941,8 @@
           },
           {
             "name": "UPA Lourdes",
-            "lat": 4.5893068,
-            "lon": -74.0739448
+            "lat": 4.589292,
+            "lon": -74.0739066
           },
           {
             "name": "UPA Rionegro",
@@ -4990,11 +5002,6 @@
         ],
         "Medellín": [
           {
-            "name": "CENTRO POLICLÍNICO S.A.",
-            "lat": 6.2486808,
-            "lon": -75.5652647
-          },
-          {
             "name": "CIS Comfama Itagüí",
             "lat": 6.17512,
             "lon": -75.607182
@@ -5018,6 +5025,11 @@
             "name": "Centro Médico Nueva Vida",
             "lat": 6.2840212,
             "lon": -75.5842167
+          },
+          {
+            "name": "Centro Policlínico S.a.",
+            "lat": 6.2486808,
+            "lon": -75.5652647
           },
           {
             "name": "Centro de Fracturas Cefra S.a.",
@@ -5270,11 +5282,6 @@
             "lon": -75.5867116
           },
           {
-            "name": "SOMA",
-            "lat": 6.2488833,
-            "lon": -75.5645579
-          },
-          {
             "name": "Salud SURA",
             "lat": 6.2287433,
             "lon": -75.574097
@@ -5298,6 +5305,11 @@
             "name": "Savia salud EPS",
             "lat": 6.2271867,
             "lon": -75.5744281
+          },
+          {
+            "name": "Soma",
+            "lat": 6.2488833,
+            "lon": -75.5645579
           },
           {
             "name": "Unidad Hospitalaria Castilla Jaime Tobón Arbeláez",
@@ -5350,7 +5362,7 @@
             "lon": -75.5875358
           },
           {
-            "name": "Urgencias Leon XIII",
+            "name": "Urgencias Hospital Alma Máter (antigua Clínica León XIII)",
             "lat": 6.2668359,
             "lon": -75.5654957
           },
@@ -15401,7 +15413,7 @@
           },
           {
             "name": "Central Armed Police Forces Institute of Medical Sciences",
-            "lat": 28.473978,
+            "lat": 28.4746541,
             "lon": 77.2158554
           },
           {
@@ -24854,7 +24866,7 @@
       }
     },
     "Mexico": {
-      "count": 267,
+      "count": 268,
       "cities": {
         "Cancún": [
           {
@@ -25001,8 +25013,8 @@
           },
           {
             "name": "Centro Medico Nacional Siglo XXI",
-            "lat": 19.4091815,
-            "lon": -99.1528235
+            "lat": 19.4091808,
+            "lon": -99.1529042
           },
           {
             "name": "Centro Médico ABC",
@@ -25256,13 +25268,13 @@
           },
           {
             "name": "Hospital CAMI",
-            "lat": 19.4240166,
-            "lon": -99.1051123
+            "lat": 19.4239068,
+            "lon": -99.1050215
           },
           {
             "name": "Hospital Cardiologia",
-            "lat": 19.4087696,
-            "lon": -99.1520993
+            "lat": 19.4087707,
+            "lon": -99.1521075
           },
           {
             "name": "Hospital Carso 3",
@@ -25271,8 +25283,8 @@
           },
           {
             "name": "Hospital Central Militar",
-            "lat": 19.4373297,
-            "lon": -99.216189
+            "lat": 19.4373188,
+            "lon": -99.2161734
           },
           {
             "name": "Hospital Central Norte Pemex",
@@ -25521,8 +25533,8 @@
           },
           {
             "name": "Hospital Pediatria",
-            "lat": 19.4076298,
-            "lon": -99.1521016
+            "lat": 19.4079564,
+            "lon": -99.152088
           },
           {
             "name": "Hospital Pediatrico Azcapotzalco",
@@ -25661,13 +25673,13 @@
           },
           {
             "name": "Hospital Star Médica Tlalnepantla",
-            "lat": 19.5371979,
-            "lon": -99.2049885
+            "lat": 19.5372169,
+            "lon": -99.20505
           },
           {
             "name": "Hospital Tehuantepec",
-            "lat": 19.4050112,
-            "lon": -99.1625655
+            "lat": 19.4051065,
+            "lon": -99.1624768
           },
           {
             "name": "Hospital Trinidad",
@@ -25686,8 +25698,8 @@
           },
           {
             "name": "Hospital de Especialidades Isfam",
-            "lat": 19.4316953,
-            "lon": -99.2247544
+            "lat": 19.4316974,
+            "lon": -99.2247512
           },
           {
             "name": "Hospital de Gineco Pediatría 3A",
@@ -25973,6 +25985,11 @@
             "name": "UMAE Victorio de la Fuente Narvaez",
             "lat": 19.4842608,
             "lon": -99.1369734
+          },
+          {
+            "name": "UNRC Casco de Santo Tomás",
+            "lat": 19.4519052,
+            "lon": -99.1702933
           },
           {
             "name": "Unidad Médico Quirúrgica Juárez Centro",
@@ -26544,7 +26561,7 @@
       }
     },
     "South Korea": {
-      "count": 290,
+      "count": 291,
       "cities": {
         "Seoul": [
           {
@@ -26629,8 +26646,8 @@
           },
           {
             "name": "강남차병원",
-            "lat": 37.5068244,
-            "lon": 127.0347314
+            "lat": 37.5068297,
+            "lon": 127.0347555
           },
           {
             "name": "강남힘찬병원",
@@ -26794,8 +26811,8 @@
           },
           {
             "name": "국군서울지구병원",
-            "lat": 37.5881254,
-            "lon": 126.9830066
+            "lat": 37.5881208,
+            "lon": 126.9829803
           },
           {
             "name": "국립 경찰병원",
@@ -26958,14 +26975,14 @@
             "lon": 127.138109
           },
           {
-            "name": "동신목동한방병원",
-            "lat": 37.5246124,
-            "lon": 126.8767994
-          },
-          {
             "name": "동신병원",
             "lat": 37.5814246,
             "lon": 126.9365355
+          },
+          {
+            "name": "동신한방병원 목동",
+            "lat": 37.5245716,
+            "lon": 126.8766444
           },
           {
             "name": "동우당한의원",
@@ -27031,6 +27048,11 @@
             "name": "메이저피부과 성신여대점",
             "lat": 37.5929011,
             "lon": 127.0162095
+          },
+          {
+            "name": "메이크치과(MAKE Dental Clinic)",
+            "lat": 37.5067344,
+            "lon": 127.0311842
           },
           {
             "name": "명동성모안과",
@@ -27793,9 +27815,9 @@
             "lon": 127.0485153
           },
           {
-            "name": "청화여성병원",
-            "lat": 37.507169,
-            "lon": 126.9403096
+            "name": "청화병원",
+            "lat": 37.5071575,
+            "lon": 126.9403122
           },
           {
             "name": "초록나무요양병원",
@@ -28015,7 +28037,7 @@
             "lon": 2.1431984
           },
           {
-            "name": "4- Hospital Traumatología, Rehabilitació Cremats Vall Hebron",
+            "name": "4-  Hospital Traumatología, Rehabilitació Cremats Vall Hebron",
             "lat": 41.4273607,
             "lon": 2.13983
           },
@@ -28026,7 +28048,7 @@
           },
           {
             "name": "Capio Hospital Universitari Sagrat Cor",
-            "lat": 41.3889427,
+            "lat": 41.3889465,
             "lon": 2.1456033
           },
           {
@@ -28051,8 +28073,8 @@
           },
           {
             "name": "Eudona Barcelona",
-            "lat": 41.3880112,
-            "lon": 2.1383389
+            "lat": 41.3880018,
+            "lon": 2.1383178
           },
           {
             "name": "Fremap",
@@ -28131,8 +28153,8 @@
           },
           {
             "name": "Hospital HM Nens",
-            "lat": 41.3970879,
-            "lon": 2.1733003
+            "lat": 41.3971925,
+            "lon": 2.1735994
           },
           {
             "name": "Hospital Quironsalud",
