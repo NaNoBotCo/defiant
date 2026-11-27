@@ -628,7 +628,7 @@
     },
     "longevity": {
       "label": "Longevity & wellness",
-      "count": 3,
+      "count": 4,
       "items": [
         {
           "name": "Check up Centre / Anti-aging Centre",
@@ -641,6 +641,12 @@
           "name_en": "Home Health & Wellness",
           "lat": 18.3562992,
           "lon": 99.4550656
+        },
+        {
+          "name": "Home Wellness Clinic",
+          "name_en": "Home Wellness Clinic",
+          "lat": 18.3007194,
+          "lon": 99.4883391
         },
         {
           "name": "The Self Wellness",
@@ -5002,11 +5008,6 @@
         ],
         "Medellín": [
           {
-            "name": "CENTRO POLICLÍNICO S.A.",
-            "lat": 6.2486808,
-            "lon": -75.5652647
-          },
-          {
             "name": "CIS Comfama Itagüí",
             "lat": 6.17512,
             "lon": -75.607182
@@ -5030,6 +5031,11 @@
             "name": "Centro Médico Nueva Vida",
             "lat": 6.2840212,
             "lon": -75.5842167
+          },
+          {
+            "name": "Centro Policlínico S.a.",
+            "lat": 6.2486808,
+            "lon": -75.5652647
           },
           {
             "name": "Centro de Fracturas Cefra S.a.",
@@ -5282,11 +5288,6 @@
             "lon": -75.5867116
           },
           {
-            "name": "SOMA",
-            "lat": 6.2488833,
-            "lon": -75.5645579
-          },
-          {
             "name": "Salud SURA",
             "lat": 6.2287433,
             "lon": -75.574097
@@ -5310,6 +5311,11 @@
             "name": "Savia salud EPS",
             "lat": 6.2271867,
             "lon": -75.5744281
+          },
+          {
+            "name": "Soma",
+            "lat": 6.2488833,
+            "lon": -75.5645579
           },
           {
             "name": "Unidad Hospitalaria Castilla Jaime Tobón Arbeláez",
@@ -5362,7 +5368,7 @@
             "lon": -75.5875358
           },
           {
-            "name": "Urgencias Leon XIII",
+            "name": "Urgencias Hospital Alma Máter (antigua Clínica León XIII)",
             "lat": 6.2668359,
             "lon": -75.5654957
           },
@@ -5979,7 +5985,7 @@
       }
     },
     "India": {
-      "count": 3695,
+      "count": 3694,
       "cities": {
         "Bengaluru": [
           {
@@ -15297,11 +15303,6 @@
             "lon": 77.245588
           },
           {
-            "name": "Bawana Dispensary",
-            "lat": 28.8012625,
-            "lon": 77.0374388
-          },
-          {
             "name": "Bawasher Hospital",
             "lat": 28.6742139,
             "lon": 77.1761804
@@ -16328,8 +16329,8 @@
           },
           {
             "name": "Hans Charitable Hospital",
-            "lat": 28.7002703,
-            "lon": 77.2083671
+            "lat": 28.7003162,
+            "lon": 77.2083336
           },
           {
             "name": "Hardik Hospital",
@@ -24672,8 +24673,8 @@
           },
           {
             "name": "KPJ Tawakkal KL Specialist Hospital",
-            "lat": 3.1773236,
-            "lon": 101.6986503
+            "lat": 3.1772724,
+            "lon": 101.6986501
           },
           {
             "name": "Kiara Medical Centre",
@@ -26364,7 +26365,7 @@
           },
           {
             "name": "HealthCity Novena",
-            "lat": 1.3216048,
+            "lat": 1.3222525,
             "lon": 103.8467939
           },
           {
@@ -29766,7 +29767,7 @@
       }
     },
     "Turkey": {
-      "count": 344,
+      "count": 343,
       "cities": {
         "Antalya": [
           {
@@ -29948,8 +29949,8 @@
           },
           {
             "name": "Acıbadem Ataşehir Hastanesi",
-            "lat": 40.9942682,
-            "lon": 29.1269208
+            "lat": 40.9945826,
+            "lon": 29.1270666
           },
           {
             "name": "Acıbadem Dr. Şinasi Can (Kadıköy) Hastanesi",
@@ -29978,12 +29979,12 @@
           },
           {
             "name": "Acıbadem Kozyatağı Hastanesi",
-            "lat": 40.9766927,
+            "lat": 40.9766911,
             "lon": 29.0931138
           },
           {
             "name": "Acıbadem Maslak Hastanesi",
-            "lat": 41.1274286,
+            "lat": 41.1273992,
             "lon": 29.0251976
           },
           {
@@ -30053,8 +30054,8 @@
           },
           {
             "name": "Ataköy Hastanesi",
-            "lat": 40.9925405,
-            "lon": 28.8406425
+            "lat": 40.9925302,
+            "lon": 28.8406431
           },
           {
             "name": "Ataşehir Ağız ve Diş Sağlığı Hastanesi",
@@ -30073,7 +30074,7 @@
           },
           {
             "name": "Avcılar Murat Kölük Devlet Hastanesi",
-            "lat": 40.9847659,
+            "lat": 40.9847531,
             "lon": 28.7312802
           },
           {
@@ -30085,11 +30086,6 @@
             "name": "Avrupa Özel Şafak Hastanesi",
             "lat": 41.0596967,
             "lon": 28.9123842
-          },
-          {
-            "name": "BHT Clinic İstanbul Tema Hastanesi",
-            "lat": 41.0600854,
-            "lon": 28.7739432
           },
           {
             "name": "Bahat Özel Hastanesi",
@@ -30207,14 +30203,9 @@
             "lon": 28.9158289
           },
           {
-            "name": "Beykoz Devlet Hastanesi",
-            "lat": 41.1176139,
-            "lon": 29.0982065
-          },
-          {
-            "name": "Beykoz Devlet Hastanesi Tepeüstü Ek Hizmet Birimi",
-            "lat": 41.1106101,
-            "lon": 29.0862362
+            "name": "Beykoz Devlet Hastanesi Tepeüstü Ek Binası",
+            "lat": 41.1106214,
+            "lon": 29.0862207
           },
           {
             "name": "Beykoz Devlet Hastanesi Toplum Ruh Sağlığı Merkezi",
@@ -30273,13 +30264,8 @@
           },
           {
             "name": "Cerrahpaşa Tıp Fakültesi",
-            "lat": 41.0040192,
+            "lat": 41.0040181,
             "lon": 28.9415822
-          },
-          {
-            "name": "Daviva",
-            "lat": 40.9947818,
-            "lon": 28.709593
           },
           {
             "name": "Dayıoğlu Tıp Merkezi",
@@ -30369,7 +30355,7 @@
           {
             "name": "Erenköy Ruh ve Sinir Hastalıkları Eğitim ve Araştırma Hastanesi",
             "lat": 40.9750143,
-            "lon": 29.0887494
+            "lon": 29.0887569
           },
           {
             "name": "Ersoy Hastanesi",
@@ -30393,8 +30379,8 @@
           },
           {
             "name": "Esthetica",
-            "lat": 40.9851741,
-            "lon": 29.1100033
+            "lat": 40.985173,
+            "lon": 29.1100045
           },
           {
             "name": "Ethica Hastanesi",
@@ -30403,13 +30389,13 @@
           },
           {
             "name": "Eyüp Kemerburgaz Aile Sağlığı Merkezi",
-            "lat": 41.1590617,
-            "lon": 28.9115526
+            "lat": 41.159064,
+            "lon": 28.91162
           },
           {
             "name": "Eyüpsultan Devlet Hastanesi",
-            "lat": 41.0574382,
-            "lon": 28.9407454
+            "lat": 41.0563473,
+            "lon": 28.9118182
           },
           {
             "name": "FSM Tıp Merkezi",
@@ -30445,11 +30431,6 @@
             "name": "GAZİOSMANPAŞA 24 NOLU ASM",
             "lat": 41.0606279,
             "lon": 28.9077623
-          },
-          {
-            "name": "Gaziosmanpaşa Eğitim ve Araştırma Hastanesi Aliya İzzetbegoviç Semt Polikliniği",
-            "lat": 41.0563473,
-            "lon": 28.9118182
           },
           {
             "name": "Gaziosmanpaşa Fizik Tedavi Rehabilitasyon Eğitim ve Araştırma Hastanesi",
@@ -30577,7 +30558,7 @@
             "lon": 29.1239632
           },
           {
-            "name": "Kasım Paşa Eski Deniz Hastanesi",
+            "name": "Kasım Paşa Asker Hastanesi",
             "lat": 41.0327835,
             "lon": 28.964016
           },
@@ -30848,8 +30829,8 @@
           },
           {
             "name": "Psikiyatri Acil",
-            "lat": 40.9875816,
-            "lon": 28.86234
+            "lat": 40.9875805,
+            "lon": 28.8623764
           },
           {
             "name": "S.B.Ü. Haydarpaşa Numune Hastanesi Validebağ Semt Polikliniği",
@@ -30883,13 +30864,13 @@
           },
           {
             "name": "Sancaktepe Şehit Prof.Dr. İlhan Varank Eğitim Ve Araştırma Hastanesi",
-            "lat": 41.0053549,
+            "lat": 41.0053544,
             "lon": 29.1962203
           },
           {
             "name": "Sante Plus Hastanesi",
-            "lat": 40.9984202,
-            "lon": 28.8943061
+            "lat": 40.9984177,
+            "lon": 28.8943472
           },
           {
             "name": "Sarıyer Hamidiye Etfal Eğitim ve Araştırma Hastanesi",
@@ -30898,8 +30879,8 @@
           },
           {
             "name": "Sarıyer İsmail Akgün Devlet Hastanesi",
-            "lat": 41.1694361,
-            "lon": 29.0566989
+            "lat": 41.1694193,
+            "lon": 29.0567119
           },
           {
             "name": "Saygı Hastanesi",
@@ -31033,8 +31014,8 @@
           },
           {
             "name": "Yedikule Göğüş Hastalıkları Hastanesi",
-            "lat": 41.0017833,
-            "lon": 28.9164448
+            "lat": 41.0021036,
+            "lon": 28.9152374
           },
           {
             "name": "Yedikule Surp PIRGIÇ ERMENI Hastanesi",
@@ -31150,6 +31131,11 @@
             "name": "Özel Avcılar Anadolu Hastanesi",
             "lat": 41.0054462,
             "lon": 28.7061163
+          },
+          {
+            "name": "Özel Avcılar Hospital",
+            "lat": 40.9947818,
+            "lon": 28.709593
           },
           {
             "name": "Özel Avrasya Hastanesi",
@@ -31278,8 +31264,8 @@
           },
           {
             "name": "Özel Safa Hastanesi",
-            "lat": 41.022721,
-            "lon": 28.8571751
+            "lat": 41.022723,
+            "lon": 28.8572036
           },
           {
             "name": "Özel Sondurak Ümran Tıp Merkezi",
@@ -31367,6 +31353,11 @@
             "lon": 28.8666912
           },
           {
+            "name": "İstanbul Beykoz (Paşabahçe) Devlet Hastanesi",
+            "lat": 41.1176714,
+            "lon": 29.0981565
+          },
+          {
             "name": "İstanbul Bezmialem Vakıf Üniversitesi Valide Sultan Gureba Hastanesi",
             "lat": 41.0185641,
             "lon": 28.9359844
@@ -31384,7 +31375,7 @@
           {
             "name": "İstanbul Eğitim ve Araştırma Hastanesi",
             "lat": 41.0032476,
-            "lon": 28.9380519
+            "lon": 28.9380405
           },
           {
             "name": "İstanbul Eğitim ve Araştırma Hastanesi Osmaniye Semt Poliklinği",
@@ -31422,6 +31413,11 @@
             "lon": 29.2659788
           },
           {
+            "name": "İstanbul Tema Hastanesi",
+            "lat": 41.0600854,
+            "lon": 28.7739432
+          },
+          {
             "name": "İstanbul Tüpbebek",
             "lat": 41.0554676,
             "lon": 28.9983966
@@ -31448,8 +31444,8 @@
           },
           {
             "name": "İstanbulum Tıp Merkezi",
-            "lat": 41.1033788,
-            "lon": 28.8617105
+            "lat": 41.1034186,
+            "lon": 28.8616773
           },
           {
             "name": "İstinye Devlet Hastanesi",
