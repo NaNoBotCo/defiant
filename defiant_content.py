@@ -425,7 +425,7 @@ PROCEDURES = {
             "Another reality check: **deceased-donor organ transplantation in Thailand is restricted "
             "to Thai nationals** — the Red Cross allocation system does not list foreigners, and "
             "reputable hospitals follow it. Transplant-tourism brokers promising Thai livers are "
-            "lying to desperate people; we refuse to."),
+            "lying to desperate people."),
         notes="Living-donor programs for foreigners exist in other countries with real legal frameworks (e.g., India with a related donor, Turkey, South Korea)."),
 
     # ---- General Surgery (reality check)
@@ -488,7 +488,7 @@ PROCEDURES = {
             "The flagship of the 'therapies the FDA sits on' category — handled with adult "
             "supervision. Thailand permits certain regenerative treatments (orthopedic PRP/BMAC, "
             "some mesenchymal stem-cell protocols) under Ministry of Public Health regulation, "
-            "alongside a gray market of miracle-cure clinics we will not send you to."),
+            "alongside a gray market of miracle-cure clinics."),
         science=(
             "Graded: **promising-to-mixed for orthopedic indications** (knee osteoarthritis has "
             "real trials with modest effects), **experimental for autoimmune conditions**, and "
@@ -542,7 +542,7 @@ PROCEDURES = {
                  "menopause-symptom signals), no robust evidence for rejuvenation. The entire "
                  "question is sourcing and licensing — pharmaceutical-grade product at a "
                  "physician clinic or nothing."),
-        notes="We only book licensed clinics using registered pharmaceutical product, and we say the evidence grade out loud before you pay."),
+        ),
     "Exosome Therapy": dict(
         cat="Futuristic Thai Therapies", us="Trial-only", th="$2,000–$8,000 per program",
         stay="Program-dependent",
@@ -553,7 +553,7 @@ PROCEDURES = {
         science=("Graded: **exciting biology, zero approved indications anywhere.** Early human "
                  "data is sparse and heterogeneous; product characterization varies clinic to "
                  "clinic. Regulatory status is gray even in permissive jurisdictions."),
-        notes="We treat exosomes like we treat any frontier: slowly, at regulated facilities, with your eyes open and our grade in writing."),
+        ),
     "Peptide Injections": dict(
         cat="Futuristic Thai Therapies", us="Gray-market / compounding-pharmacy limbo", th="$100–$500 per cycle",
         stay="Self-administered courses after physician start",
@@ -583,10 +583,9 @@ PROCEDURES = {
         hosps=[],
         blurb=("Electrodes, a box with dials, and the claim that your cells' 'frequencies' can "
                "be read and retuned. Widely available in Thai wellness centers."),
-        science=("Graded: **no plausible mechanism, no credible trials.** We are a defiant "
-                 "company, not a disstraight one: this one is vibes. If the ritual relaxes you, "
+        science=("Graded: **no plausible mechanism, no credible trials.** If the ritual relaxes you, "
                  "that's worth something — just not a diagnosis."),
-        notes="We'll book it if you want the experience; we will never let a bioresonance readout change your actual medical plan."),
+        notes="We'll book it if you want the experience."),
     "EBOO Blood Ozone Dialysis": dict(
         cat="Futuristic Thai Therapies", us="$1,000–$2,500 per session (fringe clinics)", th="$300–$800 per session",
         stay="2–3 hours per session",
