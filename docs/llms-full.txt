@@ -4041,8 +4041,7 @@ more than the FDA lets you do at home.
 
 *Defiant is a concierge, not a provider. "Regenerative" is a
 frontier: mechanisms are real, evidence ranges from strong to early, and results
-vary. We route only to regulated facilities with named physicians and published
-protocols — and we will not send you anywhere selling a "cure."*
+vary.*
 
 ## PRP & growth factors
 
@@ -4626,11 +4625,11 @@ Electrodes, a box with dials, and the claim that your cells' 'frequencies' can b
 
 ## The science, graded
 
-Graded: **no plausible mechanism, no credible trials.** We are a defiant company, not a disstraight one: this one is vibes. If the ritual relaxes you, that's worth something — just not a diagnosis.
+Graded: **no plausible mechanism, no credible trials.** If the ritual relaxes you, that's worth something — just not a diagnosis.
 
 ## The Defiant take
 
-We'll book it if you want the experience; we will never let a bioresonance readout change your actual medical plan.
+We'll book it if you want the experience.
 
 **Ready to price this for real?** [[=Contact|Book a free intake call]] — no fee, no obligation, no bullshit.
 
@@ -5207,10 +5206,6 @@ Cell-free vesicles harvested from stem-cell cultures, sold as the next generatio
 ## The science, graded
 
 Graded: **exciting biology, zero approved indications anywhere.** Early human data is sparse and heterogeneous; product characterization varies clinic to clinic. Regulatory status is gray even in permissive jurisdictions.
-
-## The Defiant take
-
-We treat exosomes like we treat any frontier: slowly, at regulated facilities, with your eyes open and our grade in writing.
 
 **Ready to price this for real?** [[=Contact|Book a free intake call]] — no fee, no obligation, no bullshit.
 
@@ -5989,7 +5984,7 @@ Lipo is contouring, not weight loss — if a clinic anywhere sells it as weight 
 # Liver Transplant in Thailand — Cost & Where
 URL: https://nanobotco.github.io/defiant/procedures/liver-transplant/
 
-Another reality check: **deceased-donor organ transplantation in Thailand is restricted to Thai nationals** — the Red Cross allocation system does not list foreigners, and reputable hospitals follow it. Transplant-tourism brokers promising Thai livers are lying to desperate people; we refuse to.
+Another reality check: **deceased-donor organ transplantation in Thailand is restricted to Thai nationals** — the Red Cross allocation system does not list foreigners, and reputable hospitals follow it. Transplant-tourism brokers promising Thai livers are lying to desperate people.
 
 
 | | United States | Thailand |
@@ -6232,10 +6227,6 @@ Laennec-style human-placenta hydrolysate injections — a Japanese longevity-cli
 ## The science, graded
 
 Graded: **weak.** Decades of use in Japan, a handful of small trials (some menopause-symptom signals), no robust evidence for rejuvenation. The entire question is sourcing and licensing — pharmaceutical-grade product at a physician clinic or nothing.
-
-## The Defiant take
-
-We only book licensed clinics using registered pharmaceutical product, and we say the evidence grade out loud before you pay.
 
 **Ready to price this for real?** [[=Contact|Book a free intake call]] — no fee, no obligation, no bullshit.
 
@@ -6498,7 +6489,7 @@ We insist on imaging review before travel: send your MRI, get the surgical plan 
 # Stem Cell Therapy in Thailand — Cost & Where
 URL: https://nanobotco.github.io/defiant/procedures/stem-cell-therapy/
 
-The flagship of the 'therapies the FDA sits on' category — handled with adult supervision. Thailand permits certain regenerative treatments (orthopedic PRP/BMAC, some mesenchymal stem-cell protocols) under Ministry of Public Health regulation, alongside a gray market of miracle-cure clinics we will not send you to.
+The flagship of the 'therapies the FDA sits on' category — handled with adult supervision. Thailand permits certain regenerative treatments (orthopedic PRP/BMAC, some mesenchymal stem-cell protocols) under Ministry of Public Health regulation, alongside a gray market of miracle-cure clinics.
 
 
 | | United States | Thailand |
